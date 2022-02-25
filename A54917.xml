@@ -1,0 +1,1107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nil novi This years fruit, from the last years root. The souldiers posture, to the right, to the left, faces about, as yee were. The royall maxime, no bishop, no king. The first-fruits of new prelats, amounting to as much as the tythes of old bishops. All summed up in an impartial relation of the partial proceedings, and uprighteous rumors raised against Henry Pinnel, concerning his endeavouring to get a parsonage. Occasioning a sudden glance upon the true resurrection, present perfection, and perfect obedience. Written in a letter to a friend.</title>
+            <author>Pinnell, Henry.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 131 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54917</idno>
+            <idno type="STC">Wing P2278A</idno>
+            <idno type="STC">ESTC R221490</idno>
+            <idno type="EEBO-CITATION">99832788</idno>
+            <idno type="PROQUEST">99832788</idno>
+            <idno type="VID">37262</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54917)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37262)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2150:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nil novi This years fruit, from the last years root. The souldiers posture, to the right, to the left, faces about, as yee were. The royall maxime, no bishop, no king. The first-fruits of new prelats, amounting to as much as the tythes of old bishops. All summed up in an impartial relation of the partial proceedings, and uprighteous rumors raised against Henry Pinnel, concerning his endeavouring to get a parsonage. Occasioning a sudden glance upon the true resurrection, present perfection, and perfect obedience. Written in a letter to a friend.</title>
+                  <author>Pinnell, Henry.</author>
+               </titleStmt>
+               <extent>[6], 50 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.C. for Richard Moone, at the seven Stars in Paul's Church-yard, neer the great Norrh-door [sic],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Hen. Pinnell.</note>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pinnell, Henry, --  Early works to 1800.</term>
+               <term>Church of England --  Bishops --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37262:1"/>
+            <pb facs="tcp:37262:1"/>
+            <p>
+               <hi>NIL NOVI.</hi>
+            </p>
+            <p>This Years Fruit, From The laſt Years Root.</p>
+            <p>The Souldiers Poſture, <hi>To the Right, to the Left, Faces about, As yee were.</hi>
+            </p>
+            <p>The Royall Maxime, <hi>No BISHOP, no KING.</hi>
+            </p>
+            <p>The Firſt-Fruits of New Prelats, amounting to as much as the Tythes of Old Biſhops.</p>
+            <p>All ſummed up in an Impartial Relation of the Partial proceedings, and unrighteous rumors raiſed againſt <hi>HENRY PINNEL,</hi> Concerning his endeavouring to get a Parſonage.</p>
+            <p>Occaſioning a ſudden glance upon the True Reſurrection, preſent Perfection, and perfect Obedience. Written in a Letter to a Friend.</p>
+            <q>Every day they wreſt my words: all their thoughts are againſt me for evil, <bibl>
+                  <hi>Pſal. 56.5.</hi>
+               </bibl>
+            </q>
+            <q>Whoſe mouthes muſt be ſtopped, who ſubvert whole houſes, teaching things which they ought not, for filthy lucres ſake, <bibl>
+                  <hi>Tit. 1.11.</hi>
+               </bibl>
+            </q>
+            <q>Truth faileth, and he that departeth from evil, is accounted mad, <bibl>
+                  <hi>Iſa. 59.15.</hi>
+               </bibl>
+            </q>
+            <q>Pure Relion is—to keep himſelf unſpotted from the wo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld, <bibl>
+                  <hi>Iam. 1.27.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. C.</hi> for <hi>Richard Moone,</hi> at the ſeven Stars in <hi>Paul</hi>'s Church-yard, neer the great North-door, 1654.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:37262:2"/>
+            <pb facs="tcp:37262:2"/>
+            <head>To him that cannot, or will not read without prejudice.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Tumble not at the threſhold, and carp not at the Complement, that I ſalute thee with a Letter to an Epiſtle, or an Epiſtle to a Letter. There are but two things that can caſt me under thy cenſure; either what I have ſaid, or what I have not ſaid. What I have ſaid peradventure thou wilt interpret as too ſatyrical and rigid, ariſing from paſſi<g ref="char:EOLhyphen"/>on, too tart and harſh for a meek and quiet ſpirit.</p>
+            <p>I confeſs I have written in paſſion, yet not with<g ref="char:EOLhyphen"/>out affection; with much hatred, but more love. The greateſt fault I finde with my ſelf, is want of hatred as much as of love; proportionable to the one ſhould be the other: as is our love to good, ſo is our hatred to evil. <hi>Ye that love the Lord, hate evil.</hi>
+               <note place="margin">
+                  <hi>Pſ.</hi> 92.10. <hi>Io.</hi> 2.15, 17</note> When I conſider the zeal that Chriſt had for
+<pb facs="tcp:37262:3"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od, and his in <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ation againſt ſin, I am aſhamed to be ſo milde and dull;<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>on laedere poſ<g ref="char:EOLhyphen"/>ſit idem.</note> give me the knife that will cut my meat and my enemies throat too. The depth of hatred is in the height of love. <hi>David</hi> a man af<g ref="char:EOLhyphen"/>ter Gods own heart, had the greateſt deteſtation and abhorrency againſt evil. I hate all falſe wayes, with a perfect hatred, <hi>Pſal.</hi> 119. <hi>v.</hi> 104. &amp; 139.21, 22. A compleat hatred of evil, is not without an abſolute love to good. He that had ſeen the Anatomy of Chriſt upon the Croſs,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 12.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 20.27.</note> and look'd in at the hole which the ſpear made in his ſide, and with <hi>Thomas</hi> had thruſt his hand of Faith into the inſide of his Saviour, might ſee and feel, that (as in other men) his Gall ſtuck faſt to his Liver. Love hath its root in the Liver, Anger it's riſe from the Gall; the ſwee<g ref="char:EOLhyphen"/>ter the one, the bitterer the other. Who can love or hate like God? In the natural man, Phyſitians ſay, that,</p>
+            <q>
+               <l>— Fel concitat iras</l>
+               <l>— Cogit amare jecur,</l>
+            </q>
+            <q>
+               <l>As hatred in the Gall doth breed,</l>
+               <l>Love from the Liver doth proceed.</l>
+            </q>
+            <p>The wiſe God hath made us wonderful Types of our ſelves,<note place="margin">
+                  <hi>Pſal.</hi> 139.4.19, &amp;c.</note> that as we are in the natural man, ſo we ſhould be in the ſpiritual, not without Liver and Gall; greedily ſucking into us his blood of life and love of all good, and zealouſly breathing out hatred and bitterneſs againſt all evil; reſerving every veſſel for its proper uſe in the houſe of our Lord, whether for honor or diſhonor; the Liver for the perſon, the Gall for his evil practice; love to all our enemies,
+<pb facs="tcp:37262:3" rendition="simple:additions"/>hatred againſt all enmity: tis hard, b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t not impoſſi<g ref="char:EOLhyphen"/>ble, to divide the ſinner from the ſin; Chriſt could do ſo, and did,</p>
+            <q>
+               <l>Who from his foes drank Vinegar and Gall,</l>
+               <l>Cry'd, like their friend, Father forgive them all.</l>
+            </q>
+            <p>The croſs of Chriſt ſucks up all the curſe againſt the creature, and pours out all the vials of vengeance upon the enmity of the carnal man. I am finiſh<g ref="char:EOLhyphen"/>ing a ſhort courſe, and would have no other mark in my eye but this: My day of Audit is at hand; all my care is to caſt my account clear, and to give it up with comfort. I like even reckoning with all men, and love not to be at odds with any but the Divel, the World, and my Self. Flattery dyes more in debt then Severity. Without ſuperſtition or forma<g ref="char:EOLhyphen"/>lity, I put that piece of the old Letany into my daily prayers, and heartily ſay, <hi>That it may pleaſe thee to for<g ref="char:EOLhyphen"/>give my enemies, perſecuters, and ſlanderers, and to turn their hearts: And I beſeech thee good Lord to hear me.</hi>
+            </p>
+            <p>If thou blame me for what I have not ſaid (<hi>viz.</hi> as more full, touching the Reſurrection, Angels, Per<g ref="char:EOLhyphen"/>fection, and Obedience) know, that I never intend<g ref="char:EOLhyphen"/>ed a voluminous Treatiſe of any of thoſe points, but a ſhort ſolution to ſuch objections that were made againſt m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> refer<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> to ſom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> profeſſion of my fai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h concer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing the reſt. And though my faith be true, yet is it not full in theſe <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. I know them but in part, and therefore c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLhyphen"/>not perfectly make them known. There be others <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat know more, expect more from them. I would
+<pb facs="tcp:37262:4"/>not be altogether idle with my talent; thou haſt part of the <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>vement, as much as I think fit at this time. I <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n I may be more able to impart, and thou more fit an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lling to receive more abundant<g ref="char:EOLhyphen"/>ly hereafter. In the mean time let us both do what we know, and follow on to know more then we yet do, till we come to the unity of faith, the perfect man in Chriſt Jeſus: In which progreſs, I wiſh thee as much proſperity, and as good ſucceſs, as I deſire and hope to have beſtowed upon</p>
+            <closer>
+               <signed>Thy fellow-traveller, faithful unto thee in the Love of our Lord. <hi>H. P.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:37262:4"/>
+            <head>To my Honored Friend Mr. <hi>T. T.</hi>
+            </head>
+            <opener>
+               <salute>Deareſt Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hile I labor to keep a conſcience void of offence toward God and man, I cannot keep my converſation from the ſlanderous imputations, even of men pretending unto godlineſs; 'tis a task too great for me, to preſerve my ſelf from the ſecret ſhot and bitter darts of lying lips and a falſe tongue: yea,<note place="margin">Luk. 5.26.</note> I ſhould be ſorry to have ſuch a profeſſion, or converſation, that all men would ſpeak well of. If ye finde me dabling in the guzzel, and ſee my hands and face beſmeared with dirt, then take me for a fool, or a childe at beſt: but if my coat be never ſo much ſpattered, and daſht on the high<g ref="char:EOLhyphen"/>way, I hope I ſhall not be put to make an excuſe.</p>
+            <p>Perſonal, particular, and private aſperſions, are beſt expunged with ſcorn and ſilence; he that cannot go through bad, as well as good report, hath but a ſhallow Religion, or is but a Novice in it; but if I muſt bruſh my cloak in the Sun, I will take the wind ſo, that the duſt ſhall fly into his eyes who threw the dirt upon it: a ſingle ſlur is too ſleight a challenge; I cannot be drawn into the field upon a perſonal vindication: but ſince ye urge me with ſcandal, telling me from day to day, that I lie as a ſtumbling-block
+<pb n="2" facs="tcp:37262:5"/>block before the weak, that many are ready to fall by my ex<g ref="char:EOLhyphen"/>ample, that others triumph to ſee ſo great a Cedar fallen, <hi>&amp;c.</hi> You provoke me to enter the Liſt, and to uncover my cauſe un<g ref="char:EOLhyphen"/>der the open Heavens of God, before the World, Angels, and men. And as the airy and empty rumors of lyes and falſhood have begged audience and credit at one ear, ſo I doubt not but with the other you will admit the true information and right ſtate of the eaſe, eſpecially ſeeing you ſo much deſire it: which is in brief as followeth, <hi>viz.</hi>
+            </p>
+            <p>That I had the offer of a Parſonage, and was earneſtly preſt to accept it, is moſt true; and that I did at laſt comply and con<g ref="char:EOLhyphen"/>ſent to the motion, is alſo as true: <hi>Hine clamor, rixa, joci, men<g ref="char:EOLhyphen"/>dacia,</hi> —<hi>cachinni;</hi> but be not of a raſh heart, <hi>fama eſt mendax,</hi> there is little truth in tales; all that that is reported with truth, and for truth, is not ſo: much chaffe may be mixt with the corn, till the fan diſperſe it; all that is affirmed, is not pre<g ref="char:EOLhyphen"/>ſently proved: <hi>ſi ſat ſit accuſaſſe quis erit innocens?</hi> by that rule Chriſt had been a great ſinner: but</p>
+            <q>
+               <l>Judicis officium eſt, ut res, ita quaerere rerum</l>
+               <l>Cauſas;—</l>
+            </q>
+            <p>Take the ground and circumſtances of the Caſe along with you, and then I ſhall appear more innocent; Thus:</p>
+            <p>When Maſter <hi>Dolman,</hi> the laſt Incumbent in the Parſonage of <hi>Chriſtian-Milford,</hi> lay ſick without hope of life, he wrote to me, deſiring me to undertake the place, and ſucceed him in the work he had labored in: divers of the pariſh alſo, with paſſionate af<g ref="char:EOLhyphen"/>fection, importuned the ſame. I ask therefore.</p>
+            <p n="1">1. <hi>Whether it be ſimply unlawful for a people or pariſh,</hi>
+               <note place="margin">Quere.</note>
+               <hi>who are deſtitute of a preaching Miniſter, to deſire and ſeek after ſuch a one, of whom, upon good grounds, they are ſuffi<g ref="char:EOLhyphen"/>ciently perſwaded that he may be inſtrumental to their good and edification in the Faith? And whether he that ſhall be ſo deſired may accept thereof, without being a ſtumbling-block or ſcandal?</hi> Or,</p>
+            <p n="2">2. <hi>Whether one that is a ſtranger, and by reaſon of infancy or youth, hath not had time and opportunity to make full
+<pb n="3" facs="tcp:37262:5"/>proof of his Miniſtry, be more fit to be impoſed upon a people, contrary to their general conſent and choice, then one that is better known and approved of by the godly?</hi>
+            </p>
+            <p>That I was univerſally deſired by the pariſh, ſhall appear anon: nevertheleſs, I did (for a time) decline an immediate com<g ref="char:EOLhyphen"/>pliance, and ſuſpended my reſolution of acceptance, upon theſe conſiderations, <hi>i. e.</hi>
+            </p>
+            <p n="1">1. Leſt (as the rumor now is) I ſhould be a ſcandal to the weak,<note place="margin">
+                  <hi>Conſid.</hi> 1.</note> and ſeem to build again the things that I had deſtroyed, inaſmuch as formerly I have diſliked, and born witneſs againſt the common corruptions and abuſes concerning Tythes, Pariſh-Parſons, <hi>&amp;c.</hi>
+            </p>
+            <p n="2">2. Fearing leſt ſuch common cuſtoms, and Pariſh-perform<g ref="char:EOLhyphen"/>ances, would be required of me, which I had not liberty to perform.</p>
+            <p n="3">3. But there is another reaſon of as great weight to me though of little or no moment to ſome: for, conſidering that Maſter <hi>Still</hi> the firſt Proprietor and Incumbent, is yet living who had Inſtitution and Induction into the ſaid Parſonage and had right and title thereunto, by as juſt power and authority, as you or I hold and poſſeſs any of our lands and goods; this conſideration had no light impreſſion upon me, and lay as no ſm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll ſcruple before me; for I like not to riſe by anothers ruine, as Doctor <hi>Dodiſwell,</hi> the true Parſon of <hi>Brinkworth,</hi> can witneſs for me.</p>
+            <p>Nor doth it ſatisfie me in that you ſay,<note place="margin">Ob.</note> Maſter <hi>Still</hi> and Dr. <hi>Dodiſwell</hi> were ſequeſtred, either for plurality, or malignancy, or both. For,</p>
+            <p>If it did become a ſober man to be a Quadruplicator,<note place="margin">
+                  <hi>Sol.</hi> 1.</note> an Ap<g ref="char:EOLhyphen"/>parator, or Informer; no doubt but there would be found ſome, that now poſſeſs other mens Livings, and eat the bread out of their mouths, who have both done and ſaid as much againſt that Power, by which they yet injoy their Sequeſtrations, as the Se<g ref="char:EOLhyphen"/>queſtred themſelves, who never profeſſedly complyed with, nor publikely acknowledged that Power by which they were then Sequeſtred. Which, think you, is the greateſt and moſt dangerous enemy, the open or ſecret? But I ſhall reſt in the Act of Oblivion; and do believe, that Maſter <hi>Still,</hi> Doctor <hi>Dodiſwell,</hi> and Sir
+<pb n="4" facs="tcp:37262:6" rendition="simple:additions"/>
+               <hi>John Leuthall</hi> may be accounted fellow-ſubjects, and enjoy as much of their places and eſtates, as the preſent Power ſhall think fit.</p>
+            <p>I leave Maſter <hi>Still</hi> to plead his own cauſe, and to vindicate himſelf,<note place="margin">Sol. 2.</note> if any ſhall implead him for delinquency, or as no Mi<g ref="char:EOLhyphen"/>niſter of the Goſpel. I have onely to do with him ſo far as I am concerned in the Parſonage. If (as ſome ſay) he was Seque<g ref="char:EOLhyphen"/>ſtred as a Pluraliſt; yet why was he not left to his choice which Parſonage to leave, as others have been in the like caſe? But fur<g ref="char:EOLhyphen"/>ther, was it unlawful for him to hold two Benefices? or was not that Power juſt which gave him title to them? If it was not unlawful, why was he Sequeſtred as a Pluraliſt? if it was not lawful, why then hath it been practiced by ſome, and connived at by others, even ſuch as would be accounted the zealous Re<g ref="char:EOLhyphen"/>formers of our times? one of which could at once hold</p>
+            <q>
+               <l>Weſtminſter Martins Aſſembly Trinity, Titmarſh,</l>
+               <l>Michael, Procan (ſede vacante) Marie.</l>
+            </q>
+            <p>Something I might interrogate concerning the Kings Power, un<g ref="char:EOLhyphen"/>der which Maſter <hi>Still</hi> was inveſted; and ſomething concerning the Parliaments power under which he was deveſted; and ſome<g ref="char:EOLhyphen"/>thing more, all tending to my particular ſatisfaction in this caſe: but, ſticking to my private reſolution <hi>(ſilendo nemo peccat)</hi> 'tis good to keep the teeth in the head, and the tongue within the teeth; 'tis not ſafe coming too neer the heels of time. Beſides, conſcience is a nice and tender thing, and therefore inaſmuch as there is a civil right and property acknowledged to belong to e<g ref="char:EOLhyphen"/>very one, by that National Law and Power, under which they live, blame me not if I am ſcrupulous, and critically examine every part as I paſs in matters of this moment. I love not to ſet my foot over another mans threſhold; nor do I think it poſſible to enjoy that comfortably, which cannot be got conſcionably.</p>
+            <p>I delight not in Sequeſtrations, ſo much evil and offence ariſeth from them.<note place="margin">
+                  <hi>Sol.</hi> 3.</note> I ſee ſome (of ſwoln and accumulated titles, great Rabbies, Mandamus-Doctors) who, to the ſcandal and ſpotting of their cloth, can forſake their firſt love; caſt off their pariſh and people, for no other cauſe that I could ever hear, but only there
+<pb n="5" facs="tcp:37262:6"/>was a better Living of another mans; to be had by the help of ſome drunken Committee friend. And when they have once got footing, the key in their hand, and the bell-rope by the end, they forget their place and duty;<note place="margin">De male quaſitis non gaudet tertius ba<g ref="char:EOLhyphen"/>res.</note> (<hi>Tit.</hi> 1.8. 1 <hi>Tim.</hi> 3.4.) not given to hoſpitality, laying aſide all for the pride or portions of their children; not ruling well their own houſe, ill diſpoſing of the breeches, ſuffering their wives (at pleaſure) to break what bar<g ref="char:EOLhyphen"/>gains they make with their neighbors, to the great reproach and ſhame of their Miniſtery. I abhor to be ranked, or reckoned in the number of ſuch men.</p>
+            <p>Theſe are my reaſons why I did demur upon the matter. I know you will demand upon what ground I could, and did ac<g ref="char:EOLhyphen"/>cept the motion at laſt. However they may ſeem to you, theſe thoughts ſomewhat I prevailed with me, <hi>viz.</hi>
+            </p>
+            <p>Having ſeriouſly conſidered,<note place="margin">
+                  <hi>Reaſ.</hi> 1.</note> and throughly examined the point of ſcandal I found that it would be onely taken, and not given by me; for having nothing at all to do with Tythes, no nor with the Glebe it ſelf to any private advantage, to make a gain thereof to my ſelf; there would be nothing but the name onely of a Parſonage left to me, and not ſo much as the name of a Tythe-monger remain to be imputed to me: I ſee not how it ſhould a mount to <hi>ſcanda<g ref="char:EOLhyphen"/>lum datum.</hi> Nor did I ever (as you your ſelf know) condemn Tythes ſimply, and as abſolutely unlawful in all reſpects, but ra<g ref="char:EOLhyphen"/>ther juſtified the civil right of them; onely for my own part, I could not meddle with them, becauſe of the inexpediency; and upon that account I have, and do openly implead them. I did not reſt in my private and ſingle determination; but, becauſe it was my own caſe, I communicated it to ſuch as I though table to adviſe there<g ref="char:EOLhyphen"/>in. Wherefore (declining the injudicouſly-affectionate among my friends, and giving the hearing onely of their womaniſh rea<g ref="char:EOLhyphen"/>ſons, that it was evil in me to accept the people deſires, becauſe it was evil; and that I muſt not becauſe I muſt not) I conſulted with the moſt grave, ſolid, judicious, and experienced Chriſtians, who not onely approved, but urged my accepeatice, preſſing it as more agreeable to a Goſpel-Miniſtery, to anſwer a general requeſt for publike good, rather then to deny it upon the cauſleſs and groundleſs exceptions of a ſew, there being no foundation of ſcan<g ref="char:EOLhyphen"/>dal laid in ſo doing: nevertheleſs, hence (ſay you) is riſen a rumor
+<pb n="6" facs="tcp:37262:7"/>among the baptized people, that a great Cedar is faln. I wonder ſuch quick-ſighted people, who have ſo profoundly waſht their eyes, ſhould ſee no better, but take a poor, low, ſilly ſhrub, for a great Cedar. But.</p>
+            <p>
+               <hi>Whether is it a ſin,</hi>
+               <note place="margin">Quer. 1.</note> 
+               <hi>and ſcandalous practice, to preach in the publike place of a Pariſh, at the general requeſt and com<g ref="char:EOLhyphen"/>mon conſent of the Pariſhioners? If ſo, then why do many of the baptized themſelves, even thoſe</hi> virig egis ipſi capri, <hi>thoſe zealous Patrons and Champions of that opinion, procure by Magiſterial power and order, liberty to uſe ſuch places for their Miniſterial exerciſe? If it be no ſin or ſcandal, then ſurely they do but dream of the Cedars fall; unleſs the ſame thing be ſin in another, which is not in them?</hi> Ingens perſona<g ref="char:EOLhyphen"/>rum privilegium.</p>
+            <p>
+               <hi>Whether Tythes be preciſely unlawful,</hi>
+               <note place="margin">Quer. 2.</note>
+               <hi>without reference to a Levitical prieſthood, or legal inſtitution, but payable meerly upon humane and national ordinances? If not, then the Cedar they talk of ſtands faſt. If ſo, then many Cedars in their Lebanon do ſhake, and ſome of them are already faln. For he that ſhall deny to pay his Tythes which the Law of the Commonwealth wherein he liveth, requireth of him, to him to whom they are appointed, with-holding them to his own private uſe, ſuch a one will hardly eſcape the cenſure of a Tythe-taker, eſpecially if he exerciſe as an Officer of the Church, in the place where they are payable. For he hath no colour to keep them to himſelf, being no part of the pur<g ref="char:EOLhyphen"/>chaſe which his predeceſſors or he made, when he or they bought the Land, out of which his Tythes are to be paid: and therefore he doth wrong another, and by unjuſt cavillations, rob him of his right, unto the which the Law hath intitled that man as well as it doth him, to any of his real or perſonal eſtate. Thus ſome of the baptized may interpretatively be ſaid to take Tythes, which they ſo much judge and condemn in o<g ref="char:EOLhyphen"/>thers.</hi>
+            </p>
+            <p>I have heard what ſome of them have objected againſt Tythes,<note place="margin">Obſ.</note>
+               <hi>i. e.</hi> that it is probable, and to be ſuppoſed, That Tythes were at firſt the Arbitrary exactions and impoſitions of Tyrants, forcing out of mens eſtates, more then they were willing to part with,
+<pb n="7" facs="tcp:37262:7"/>and therefore ought not to be continued and ſubmitted unto, but every man may keep his own to himſelf.</p>
+            <p>I cannot poſitively contradict, yet I anſwer, that probability,<note place="margin">
+                  <hi>Sol.</hi> 1.</note> and ſuppoſition, prove nothing on one ſide, when there is as much in probability, to be ſuppoſed on the other ſide. 'Tis not unlikely, but that the blindfold devotion, and miſ-guided zeal of the people in former times, might make them as forward to offer, as the Prince or Prieſt were to ask their eſtates of them. Now if it was done voluntarily, and not violently, there is no cauſe of com<g ref="char:EOLhyphen"/>plaint: for <hi>volenti non fit injuria.</hi>
+            </p>
+            <p>But I anſwer according to the maxime.<note place="margin">
+                  <hi>Sol.</hi> 2.</note>
+               <hi>De rebus non apparen<g ref="char:EOLhyphen"/>tibus &amp; non exiſtentibus eadem, eſt ratie.</hi> However 'tis plain, that Tythes are now required by a Law, though not by <hi>Magna Charta.</hi> Where lies the Cedar now? In whoſe ground is it faln?</p>
+            <p>But Sir I intend not a Plea for Parſons. How often have I con<g ref="char:EOLhyphen"/>doled with you the miſery of our Nation, expoſed to ſo much con<g ref="char:EOLhyphen"/>tention, diviſion ſtriſe, malice <hi>&amp;c.</hi> nouriſhing a lazy, proud, cove<g ref="char:EOLhyphen"/>tous Miniſtery with Tythes <hi>&amp;c.</hi> and <hi>(proh gentis reformandae pudor opprobriumque!)</hi> when will the time of Reformation come? you cannot prevent my deſires, not out-do my endeavors, to disburden my poor oppreſſed country of thoſe abuſes, which corrupt-minded men have laden it withall, under pretence of Au<g ref="char:EOLhyphen"/>thority and Law: you cannot with more zeal and earneſtneſs, ſeek the eaſe and edification of the outward and inward man, then I ſhall, not by fraud or force, but by prayer and practice.</p>
+            <p>Another reaſon which induced me to accept the offer,<note place="margin">
+                  <hi>Reaſ.</hi> 2.</note> was an aſſurance of my freedome among the people; that they would not expect ſuch cuſtomes and ceremenies which I had not liberty to obſerve.</p>
+            <p>Beſides,<note place="margin">
+                  <hi>Reaſ.</hi> 3.</note> I might have ſupplyed and ſatisfied many wants and intereſts. For, quitting the Tythes (an honours crime, for which ſome of the worldly Sanctuary judged me unfit for the place) I ſhould have left Maſter <hi>Still</hi> to thoſe advantages which he could have made from his intereſt remaining yet among any of the pariſh, ſeriouſly to ſecure my ſelf from my own ſecret ſeruples; chuſing rather to be accounted his Curate there, then to have the report of doing him the leaſt wrong. And whereas the Glebe it
+<pb n="8" facs="tcp:37262:8"/>ſelf alone is too much for a ſober man to ſpend upon himſelf, the ſuperfluity thereof might have flowed into the hungry bowels of many.</p>
+            <p>Though it was reported by ſome Grandees (as I was credibly informed by one within the limits of <hi>White-Hall</hi>) that I did hunger and hunt after a Parſonage;<note place="margin">
+                  <hi>Reaſ.</hi> 4.</note> that theſe are your Seraphi<g ref="char:EOLhyphen"/>cal men, who, although they preach againſt Parſonages for a time, and for their own ends, yet when any great or fat one falls, they are as ready for it as others. How great it would have been to me, you may gueſs, by what I have already told you; and how greedily I did hunger and hunt after it, you may underſtand by what I have yet to ſay, as a further motive to my acceptance, which was this.</p>
+            <p>Some of the pariſh coming to me on a Sabbath-day, where <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ally met with many godly people for our edification in the knowledge and love of God and his truth, they propoſed and preſt their deſires. But I being unſatisfied in my ſelf, for the rea<g ref="char:EOLhyphen"/>ſons given before; and ſome occaſions calling me to <hi>London,</hi> I left them, without a conceſſion of their propoſition, reſolving in my ſelf rather againſt it, then to grant it; ſo far was I from hun<g ref="char:EOLhyphen"/>ting after it. While I was in <hi>London,</hi> Maſter <hi>Dolman</hi> died; the pariſh voluntarily aſſemble, draw up a Petition in my behalf, una<g ref="char:EOLhyphen"/>nimouſly ſubſcribe it, there being but one man onely, in all the pariſh (as I am informed) profeſſedly refuſing one <hi>Rich. Showell,</hi> whoſe good affection to the Parliament, many of his neighbors <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an ſufficiently teſtifie by woful experience, when the Cavalieres <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad power in thoſe parts; the Petition was ſent up Poſt to me by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> meſſenger of the pariſh, which ſtill preſſed my acceptance, without my hunting after them.</p>
+            <p>When I conſidered the preſent providence, and revolving the former reaſons in my minde, I yeelded; and, according to the de<g ref="char:EOLhyphen"/>ſire of the people by their meſſenger, I carryed their Petition to <hi>White-hall,</hi> and gave it into Maſter <hi>Longe</hi>'s Office of Requeſts, where I was aſſured that it would be preſented in courſe, that the Protector had appointed no other way of addreſs, in matters of that nature, and that it m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t firſt be read and heard, before any grant could paſs of the P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge. With theſe good words I was led into fools paradiſe, the Petition being there fil'd up a<g ref="char:EOLhyphen"/>gainſt
+<pb n="9" facs="tcp:37262:8"/>Dooms-day-audience; and a ſecret Order ſubtilly procu<g ref="char:EOLhyphen"/>red for another. At which the pariſh are troubled, they draw up and agree upon a ſecond petition (the godly people of ſeveral pa<g ref="char:EOLhyphen"/>riſhes adjacent, offering to aſſiſt with their petitions:) they ſend it to <hi>White-hall</hi> with the ſame ſucceſs as the former; they yet pur<g ref="char:EOLhyphen"/>ſue their deſires; divers of them go up to <hi>London</hi> an hopes of ad<g ref="char:EOLhyphen"/>miſſion to be heard at leaſt; they addreſs themſelves to men po<g ref="char:EOLhyphen"/>tent enough, and ſuch as were able to have aſſiſted the equity of their deſires: but after long waiting,<note place="margin">S.C.W.A. A.C.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> and large expence (the old cuſtome of Court) they had free leave to return home without any let or moleſtation, according to the liberty of the ſubject.</p>
+            <q>— Laberi as pauper is haec eſt:</q>
+            <q>
+               <l>Pulſat us ragat. &amp; pugnis conſciſſus adorat,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>t lice at paucis cum dentibus inde reverti.</l>
+            </q>
+            <q>
+               <l>To be abuſed, and in vaine to cry,</l>
+               <l>Was once (in <hi>Rome</hi>) the Subject, liberty.<note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at. <hi>3.</hi>
+                  </note>
+               </l>
+            </q>
+            <p>The parſonage is diſpoſed of to one Maſter <hi>Goffe, imberb is juvenis, ex Ephebis nuper evaſus,</hi> a yong man; yet not ſo young but he can make a ſhift to read his Notes to the people pret<g ref="char:EOLhyphen"/>ty well, and may in time be able to preach true dectrine, and re<g ref="char:EOLhyphen"/>form his practice. But ſuch men will ſerve the preſent turn: gravity is too ſolid to comply; youth is more tractable to the times, 'Tis obſerved of a wiſe and potent Prince, who having laid a Spa<g ref="char:EOLhyphen"/>niſh plot of greatneſs, that he made choice of a young Councel and Clergy, ſuch as could not diſcover his project, or would not contradict his pleaſure. This young man riding Poſt (as the faſhion is for a Parſonage) met with one of his acquaintance by the way, and told him his buſineſs; who asked if he had the peoples good-wil and conſent; to whom he replyed, that he regarded or cared not for that: ſo ingenuous was he to confeſs the truth, that he ſought not the people, but the Parſonage. 'Yet this man, by the guid<g ref="char:EOLhyphen"/>ance of Col. <hi>Goffe</hi> &amp; Maſter <hi>Lockyer</hi> declines the two Maſters of Requeſts,<note place="margin">Like Pa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on, like</note> the high-way which all honeſt men and cauſes keep and ſneaking along the by-way, creeps in at the back doo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his Higneſs preſence flaps him in the mouth with a l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:37262:9" rendition="simple:additions"/>(as he hath ſince confeſſed) that at that very time their petition was for me: a Chaplain fit for Col. <hi>Goffe.</hi> Thus he prevails, if not by making lyes his refuge, yet by the ſleights of men and cun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>g craftineſs whereby they lay in wale to deceive the people and me of our juſt right. A friend in Cou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> was ever better then a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eny in the purſe, or a juſt cauſe on ones ſide. When will clim<g ref="char:EOLhyphen"/>bing Couri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers ceaſe to abuſe the Prince and his people!</p>
+            <p>Laſtly,<note place="margin">
+                  <hi>Reaſ.</hi> 5.</note> I have this to add, though I cannot boaſt of merit from God. I may plead deſert with man. I have contributed more with purſe and perſon to the common liberty (as we thought) then ever Maſter <hi>Goffe</hi> hath done, and have better deſerved of my country then he hath; and therefore in moral equity and com<g ref="char:EOLhyphen"/>mon honeſty, I ought to have been ſerved before him. Never<g ref="char:EOLhyphen"/>theleſs, though I can hold plea with men, I ſubmit to the righteous ſentence of Chriſt, (<hi>Mat.</hi> 26.52.) as reſpecting me in particular for putting my hand ſo neer the ſword, though I never toucht it in action.</p>
+            <p>Theſe two laſt reaſons I urged to the honorable Col. <hi>Goffe:</hi> to the peoples deſire and conſent, after a deliberate pauſe of pro<g ref="char:EOLhyphen"/>found gravity, with moſt acute cloquence, he replyed thus Hn, ha, hm kn, why, mn, Sir. 'tis not fit the people ſhould chuſe their Miniſter, for moſt Pariſhes would chuſe amiſs, <hi>&amp;c.</hi> That many, or moſt, might fail in their choice, is not very doubtful; and how much Col. <hi>Goffe</hi> would mend the matter, is as little to be queſtioned. For he profeſſed to me, that he would not onely nor aſſiſt me whom he had long known, and againſt whom he had nothing to object to my face when I put him to it whether he had or no; but that he would do his utmoſt to eſtabliſh Maſter <hi>Goffe,</hi> a man (as he confeſſed to me) altogether a ſtranger to him till upon this occaſi<g ref="char:EOLhyphen"/>on. He was as good as his word: for when the people preſented themſelves and their petition to ſome of the Court yet their further acceſs was ſo precluded, that they could not by any means yet entrance and audience. To my laſt reaſon, of deſert, the juſt and impartial Colonel very demurely anſwered Mum. <hi>Verba dare</hi> may be the perpetual Motto of a Courtier, and <hi>Sic volo, ſic ju<g ref="char:EOLhyphen"/>beo</hi> a fit inſcription for a ſouldiers ſword.</p>
+            <p>
+               <hi>Whether Maſter</hi> Goffe <hi>is not to be reputed a falſe prophet,</hi>
+               <note place="margin">Quer. 1.</note>
+               <hi>an hireling, a Prieſt of Baalim and a Miniſter of Antichriſt,
+<pb n="11" facs="tcp:37262:9"/>rather then a Miniſter of Jeſus Chriſt and his Goſpel, ſeeing he doth preach for hire, and divine for money</hi> (Mich. 3.11.) <hi>hath run greedily after the error of Balaam for reward</hi> (Jude 11.) <hi>Who, like a falſe prophet, by reaſon of whom the way of truth is evil ſpoken of, through covetouſneſs and fained words hath made merchandize of men; whoſe heart hath been exerciſed with covetous practices, forſaken the right way, and loved the wages of unrighteouſneſs,</hi> &amp;c. 2 Pet. 2.1, 2, 3 &amp;c. <hi>who hath taken the over ſight of the flock for filthy lucre ſake,</hi> 1 Pet. 5.2. <hi>Nor let any think that I overcharge or wrong him herein, having ſaid nothing of him but what may be proved</hi> ex ore ſuo, <hi>out of his own mouth, ſo that there needs no further witneſs.</hi>
+            </p>
+            <p>
+               <hi>Whether Parſon</hi> Goffe <hi>can confidently expect a comfort able ſucceſs of his Miniſtery,</hi>
+               <note place="margin">Quer. 2.</note>
+               <hi>among thoſe whom he conſtraines to receive him as their Miniſter, by an outward power againſt their will? Would he have dealt ſo with the Cutlers daugh<g ref="char:EOLhyphen"/>ter of</hi> Oxford <hi>to make her his wife? doth not compulſion and force alienate affection? Is it not an evident demonſtration of a carnal Minister? Mr.</hi> Cradocke, <hi>now Chaplain to the Gen. Re<g ref="char:EOLhyphen"/>giment, preaching heretofore in</hi> Briſtoll <hi>&amp; ſince that in</hi> London, <hi>obſerved and laid this down for arule, That a carnal Miniſtry will always cleave to a carnal Magiſtracy to uphold it; and a carnal Magiſtracy ever ſeek to and ingratiate a carnal Mini<g ref="char:EOLhyphen"/>ſtry, to confirm it inmens conſciences; and where theſe two are thus twiſted (his own word) together the Kingdom of Antichriſt is much ſtrengthned: but as the Ivy (ſaid he) winding about the Oak ſuckes away and robs the tree of its juyce and ſap to feed it ſelf; ſo at laſt the worldly Miniſtry will become the ruine of the worldly Magiſtracy. I am not againſt the civil Magi<g ref="char:EOLhyphen"/>ſtrate, but for him; and ſo I ſuppoſe is Maſter</hi> Cradocke. <hi>I ſpeak this, becauſe when the people ſtill deſired that I might preach ſometimes among them, and it was reported that I would, Maſter</hi> Goffe <hi>told one (from whoſe mouth I had it) that I ſhould take heed how I came there, leſt I were ſent where I would not be. So much like a Biſhop doth he indeavor to domineer over the people by the ſouldiers ſword, now that Col.</hi> Goffe <hi>his Patron can keep that by force for him, which he hath got by fraud.</hi>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:37262:10" rendition="simple:additions"/>
+               <hi>Whether Maſter</hi> Goffe <hi>doth underſtand and obſerve his Maſters rule (if Chriſt be his Maſter) to do as he would be done unto,</hi>
+               <note place="margin">Quer. 3.</note>
+               <hi>in that he hath done, and yet doth what in him lyes to divide the people and me? If he ſay he would be content to be ſo dealt with, I think few will believe him.</hi>
+            </p>
+            <p>
+               <hi>Whether Col</hi> Goffe <hi>and the P<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſon with the reſt (if they have taken the old Covenant and Proteſtation) be not abomi<g ref="char:EOLhyphen"/>nable hypocrites,</hi>
+               <note place="margin">Quer. 4.</note>
+               <hi>notorious diſſemblers, grand Apoſtates, and Traytors to the Commonwealth and his Highneſs?</hi> For.</p>
+            <p n="1">1. You know, among other particulars (as reducing this Church to the beſt reformed according to the word of God <hi>&amp;c.</hi>) we did engage to maintaine the Liberty of the ſubject; whoſe li<g ref="char:EOLhyphen"/>berty ſtands (as in many other things, ſo) chiefly in free acceſs to make his grievance known, and ſupplicate a redreſs thereof. Now this way was ſtopt up and ſhut againſt the people and me, that we could not come to be heard, and make our caſe known; which liberty was infringed and violated, principally by Col. <hi>G.</hi> as is moſt probable, yea very apparent from his own words to me and other circumſtances. Surely he or they that will endeavor to hinder and overthrow their fellow-ſubjects liberty in one thing, will not be afraid to undermine them in many.</p>
+            <p>Colonel <hi>Goffe</hi> cannot forget the vociferation of the Army at <hi>New-Market,</hi> where it was the will (as we were told) of the General and Lieutenant-General (now Lord Protector) that we ſhould all cry out Juſtice, Juſtice; when the Commons of Parlia<g ref="char:EOLhyphen"/>ment were preſent. But <hi>quantum mutatus ab illo eſt?</hi> he was then but Captaine <hi>Goffe</hi> (if I miſtake not) now he is a Colonel <hi>tempora mutantur,</hi> &amp;c. 'tis <hi>Ployden</hi>'s caſe: the things that did become him then (perhaps) are not proper to him now. It is ſaid of <hi>John Maria de Mont</hi> the Cardinal, a great ſtickler in the conteſt between the Pope and the Emperor, and moſt active to ſerve his Holineſs in managing his affairs in the Councell, and tranſlating it from <hi>Trent</hi> to <hi>Bolonia;</hi> when he came to be Pope (<hi>Julius</hi> the third) being not able to eſtabliſh and ſettle the Synod in <hi>Bolonia</hi> againſt the Imperial deſign,<note place="margin">Hiſt. Conſ. T<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dent.</note> but forced to yeeld to the return of it to <hi>Trent,</hi> he had no way to come off handſomely (as he thought) to ſave his credit, but with this ſleight and ſorry ſhift; ſaying, that the action of <hi>Monte</hi> did nothing appertain to
+<pb n="13" facs="tcp:37262:10"/>Pope<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Julius;</hi> and thoſe things which gave reputation to that man, do not give it to this. So doubtleſs there is a vaſt difference between a Captain and a Colonel; he that cryed for Juſtice when he was a Captain, may do injuſtice when he is a Colonel. The Pope ſaith, that <hi>Peter</hi> may err as <hi>Simon,</hi> but not as <hi>Peter:</hi> which might be the reaſon that <hi>Os Porci</hi> (the firſt among the Popes, as <hi>Platina</hi> tells us, that) did change his name to <hi>Sergius Secundus.</hi> But, ſaith one, if <hi>Os Porci</hi> be damn'd, can <hi>Sergius Secundus</hi> be ſaved? As the poor ſhepherd, ſeeing the Biſhop of <hi>Cullen,</hi> and admiring his pompe as a Prince, when his calling was but a Biſhop; ſome replyed, that he wore not thoſe Robes as he was Biſhop, but as he was Prince; yea, but quoth the ſhepherd, <hi>Cum damnatus fuerit dux, quid fiet de Epiſcope?</hi> If the Prince go to hell for his pride, what will become of the humble Biſhop?</p>
+            <p>Though it ſhould be impoſed as an Article of faith,<note place="margin">Sen. in Herc. Fur. Id. in Tro.</note> that <hi>omuis in ferre eſt ſalus,</hi> we have no Saviour but the ſouldier; and that <hi>Quodcunque libuit facere victori, licet,</hi> his will is his Law: yet I doubt it would be found more true, that</p>
+            <q>Rara fides pietaſque viris qui caſtra ſequuntur.</q>
+            <q>
+               <l>Sometimes, though very rarely, may we finde</l>
+               <l>The Chriſtian and the ſouldier combin'd.</l>
+            </q>
+            <p>But how can the loyal Colonel and the Parſon excuſe themſelves of the great affront and treachery againſt the Protector himſelf? I know not how they ſhould, unleſs they can ſteal horſes with more ſafety then others look on. For if Mercy and Righteouſ<g ref="char:EOLhyphen"/>neſs eſtabliſh the Throne, as doubtleſs it doth, <hi>Prov.</hi> 20.28. &amp; 25.5. then he that ſhall go about to interrupt and divert the courſe thereof, can be judged for no leſs then miſpriſion of Trea<g ref="char:EOLhyphen"/>ſon at leaſt. Righteouſneſs is <hi>ſuum cuique tribuere,</hi> to give every man his own. That the people were mine, and I theirs, by free choice, voluntary conſent, and reciprocal reſpects, in ſuch a relation, as the preſent diſpenſation made us capable of, I need not prove over again; That his Highneſs hath appointed two Maſters of Requeſts, by whom the ſubject might make his ad<g ref="char:EOLhyphen"/>dreſs,
+<pb n="14" facs="tcp:37262:11"/>dreſs is well enough known; nor will any ſay it was to delude the ſubject<g ref="char:punc">▪</g> but to facilitate the gaining of his right, and that righteouſneſs (the ſtability of a th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) might be adminiſtred to him: That Col. <hi>G.</hi> (for one) notwithſtanding ſhould attempt, and did divert his Highneſs courſe of juſtice<g ref="char:punc">▪</g> by introducing (in a clandeſtine way) one that could lay no juſt claime to the people, nor cared for their conſent by his own confeſſion; and that he would do what in him lay to oppoſe me, though the Pariſh had deſired me: this laid together, may raiſe a Quere, whether Col. <hi>G.</hi> for one, be free from Treaſon againſt his blighneſs?</p>
+            <p>
+               <hi>Whether the young Parſon be not to be ſuſpected of incon<g ref="char:EOLhyphen"/>tinency and luſtful wantonneſs in that he offered violence to a modeſt and unwilling people,</hi>
+               <note place="margin">Quer. 5.</note>
+               <hi>foreing a conjuction with them by a civil power, before they were divorced for any cauſe of fornication or adultery? There be (in this caſe alſo) who have eyes full of adultery, and a whoriſh heart, which make them come too near their neighbors houſe,</hi>
+               <note place="margin">2 Pet. 2.14</note>
+               <hi>who make no bones to break the ſeventh and tenth commandments; even theſe wheremongers &amp; adulterers God will alſo judge. If you ſay we were not married, I am ſure we were betrothed, and there was</hi> matrimonium ratum. <hi>though not</hi> conſummatum: <hi>and you know,</hi>
+               <note place="margin">Deut. 22.25, 27.</note>
+               <hi>under the Law he that forced a betrothed Damoſel was to dye, if ſhe cryed out, though there was none to help. I am ſure the Pariſh cried loud enough to be heard from</hi> Wiltſhire <hi>to</hi> White-hall, <hi>where Col.</hi> G. <hi>was more forward to further the vitiating act, then to reſcue from it. I do not interpret the text; and you cannot deny the alluſion: as for that Scripture,</hi> Iſa. 59.14. <hi>I leave you and others to apply.</hi>
+            </p>
+            <p>All comfortable and commendable marriages,<note place="margin">Obj.</note> are made up of the free choice, and full conſent of parents and children. The Protector is <hi>Pater Patriae,</hi> as a father in his country; you could not expect to proſper without his approbation, which was requiſite, if not neceſſary and eſſential to the match.</p>
+            <p>All you ſay is confeſſed.<note place="margin">Sol.</note> As children are not to be diſobedi<g ref="char:EOLhyphen"/>ent to their parents; ſo parents are not to provoke, or grieve, or croſs their children in that which is juſt and reaſonable. As chil<g ref="char:EOLhyphen"/>dren, who break the fifth commandment, by flighting and reject<g ref="char:EOLhyphen"/>ing their parents conſent and counſel, can promiſe themſelves no
+<pb n="15" facs="tcp:37262:11"/>great happineſs in their wilful reſolutions; ſo parents, who force their children contrary to their affections, can have as little hope of their proſperity. But we ſought, and (by the good leave of Col. <hi>Goffe</hi> and others) would have got the good will of our Father, if we might have had acceſs to crave it. How<g ref="char:EOLhyphen"/>beit, I hope we ſhall not behave our ſelves unſeemly, but con<g ref="char:EOLhyphen"/>tinue our duty with all ſubmiſſion.</p>
+            <p>What hath Maſter <hi>Goffe</hi> done more then you?<note place="margin">Obj.</note> wherein is he more to be blamed then you, who would have lived with the ſame people before their firſt husband Maſter <hi>Still</hi> was dead?</p>
+            <p>He was dead civilly and in law, though not naturally:<note place="margin">Sol.</note> he was divorced, whether <hi>frigiditatis cauſa,</hi> or for what other reaſon, I care not to determine; nor (the truth is) do I care to harp much on this ſtring, to hear more of that particular, having no deſire to meddle with the Parſonage, upon that very conſiderati<g ref="char:EOLhyphen"/>on, no farther then the third reaſon of my acceptance moved me, <hi>i. e.</hi> in that I might have been more anſwerable to Maſter <hi>Stills</hi> expectation and ſatisfaction then any other was like to be.</p>
+            <p>If you ſay that there is no letter of Law againſt what the Par<g ref="char:EOLhyphen"/>ſon and the reſt have done,<note place="margin">Obj.</note> and therefore they cannot be accuſed of doing any wrong or injury.</p>
+            <p>I anſwer, <hi>Quod non vetat lex, hoc vetat fieri pudor,</hi>
+               <note place="margin">Sol.</note> true Chriſtian modeſty is a greater prohibition then all penal Statutes. But there is an expreſs Law againſt the parſons practice, <hi>Mat.</hi> 7.12. Suppoſe there were any humane law to countenance his pro<g ref="char:EOLhyphen"/>ceedings; yet you know mens laws are like themſelves, and have their failings: in ſuch caſe the wiſe man ſaith,</p>
+            <q>
+               <l>Judicis auxilium ſub iniqua lege rogato;</l>
+               <l>Ipſa etiam leges cupiunt ut jure regantur.<note place="margin">Cato.</note>
+               </l>
+            </q>
+            <q>
+               <l>When Laws are bad, 'tis to be underſtood,</l>
+               <l>That Judges ought to do the people good.</l>
+            </q>
+            <p>But when I ſaw, by the weather-cocks above, which way the wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſate, and was like to blow, I kept me to my Card and Com<g ref="char:EOLhyphen"/>paſs;
+<pb n="16" facs="tcp:37262:12" rendition="simple:additions"/>quitting the coaſt I made toward at firſt, I reſolved to ſteer another courſe. The moſt publike place of the pariſh being denyed, I content me with a leſs publike, where I ſhall endea<g ref="char:EOLhyphen"/>vor to gratifie the peoples affections, till ſome ſignal providence remove me.</p>
+            <p>Needs muſt,<note place="margin">Ob.</note> that cannot chuſe.</p>
+            <p>It was not theirs,<note place="margin">Sol.</note> but them I ſought at firſt. I have not loſt a Benefice, but the grant of a benevolent peoples requeſt. I of<g ref="char:EOLhyphen"/>fered Col. <hi>Goffe,</hi> that his young Chaplain ſhould take all the pro<g ref="char:EOLhyphen"/>fit, if he would allow me but the people; which thing he was as aſhamed to grant, as he was unjuſt to hinder the other.</p>
+            <p>I cannot deny, but (not from a ſeraphical principle) that I have greedily hunted after a Parſonage, and would have got it as Maſter <hi>Goffe</hi> hath his, right or wrong, rather then have gone without it: ambition, honor, preferment, <hi>&amp;c.</hi> have been my ſnares, though I was little taken with the credit or expectation of gaine from this Parſonage: I have been ready, between a zealous pride and diſcontent, to argue the caſe with God after this maner:</p>
+            <q>
+               <l>Were it not better to beſtow</l>
+               <l>
+                  <note place="margin">Maſter <hi>G. Herb.</hi> his Temple.</note>Some place and power on me?</l>
+               <l>Then ſhould thy praiſes with me grow,</l>
+               <l>And ſhare in my degree.</l>
+            </q>
+            <p>But mine Author, whiſpering me in mine ear, bade me read on till I came to that which I finde moſt true:</p>
+            <q>
+               <l>How know I, if thou ſhouldſt me raiſe,</l>
+               <l>That I ſhould then raiſe thee?</l>
+               <l>Perhaps great places, and thy praiſe</l>
+               <l>Do not ſo well agree.</l>
+            </q>
+            <p>And, truly, when I obſerve what ſlippery places preferment ſets a man in; what a ſtrange Metamorphoſis, and tranſportati<g ref="char:EOLhyphen"/>on the new-raiſed favorites of fortune ſuffer, that they are ready to take the words, though not the ſenſe, of the true convert, <hi>Ego non ſum ego;</hi> and others that take notice of them conclude, that
+<pb n="17" facs="tcp:37262:12"/>
+               <hi>idem non eſt idem:</hi> ſo far are they from Queen <hi>Elizabeth's</hi> Motto, <hi>Semper eadem,</hi> that you can hardly finde <hi>virum in viro,</hi> or <hi>idem in eodem,</hi> the ſame thing in the ſame perſon, or the ſame perſon in himſelf, it makes me think that <hi>periculo ſior eſt mundus blandue quam moleſtus,</hi>
+               <note place="margin">Bern.</note> the world doth leſs hurt with its fr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wes then with its ſmiles.</p>
+            <p>How can you finde ſuch fault with others, when you your ſelf have been ſo faulty in the ſame thing?<note place="margin">Ob.</note>
+            </p>
+            <p>Who truſted more to the legal righteouſneſs then <hi>Paul?</hi> who more declaimed againſt it? <hi>Phil.</hi> 3.4, 5 6, 7, 8.<note place="margin">Sol.</note>
+            </p>
+            <q>
+               <l>Qui ſemel in ſcopulos vento contortus &amp; undâ</l>
+               <l>Nauta, ſcit in caut is monſtrare pericula nautis.</l>
+            </q>
+            <q>
+               <l>He that hath ſuffered wracke by winde and tyde,</l>
+               <l>Is the unskilful Mariners beſt guide.</l>
+            </q>
+            <p>You come now to the <hi>maxima gravamina</hi> and tell me plain<g ref="char:EOLhyphen"/>ly where the ſhoo pincheth, what are the true reaſons why I could not be ſuffered to enjoy the peoples choice: for (ſhy you) it is re<g ref="char:EOLhyphen"/>ported commonly reported,</p>
+            <p>That I am ill-affected to the preſent government,<note place="margin">
+                  <hi>Ob.</hi> 1.</note> and ſpeak lightly of the Protector.</p>
+            <p>He ſpeaketh againſt <hi>Caeſar,</hi>
+               <note place="margin">Sol.</note> was on old forg'd charge againſt Chriſt (<hi>John</hi> 19.) the moſt obedient ſubject that ever was: but allegations without probation, go for nothing<g ref="char:punc">▪</g> but the foam of malice. I have heard of a great Rabbie, a man famous in Civil as well as Eccleſiaſtical reſpects. Preſident of a Colledge,<note place="margin">
+                  <hi>Mr.</hi> T. G.</note> and Paſtor of a Church, of forward compliance enough to the late alterations; that he ſhould ſay, How the Protector got up, he knew not; but now he is up, he muſt hold it as well as he can: who will impeach him for that? Whether his Highneſs took, or accepted of the Government contrary or according unto the ex<g ref="char:EOLhyphen"/>pectation, and approbation of the ſingle honeſt, plain-hearted Chriſtians, is not for me to diſpute or determine: that which concerns me and every one elſe (now he is up) is to pray that we may live and lead a quiet and peaceable life in all godlineſs and honeſty. Now therefore the good Lord grant,<note place="margin">1 <hi>Tim.</hi> 2.2.</note> that he may
+<pb n="18" facs="tcp:37262:13"/>be delivered and kept from the ambition, pride, and deceit of his own heart; that he may have the ſpirit of good and righteous government enlarged in him; that we may have equity and juſtice adminiſtred to us hence forward; that he may be to the puniſhment of evil doers, and to the praiſe of them that do well; that he may diſcern and diſpel all hypocritical and fawning paraſites, and that the Commonwealth under him may flouriſh in all obedience and love to God, and one another: Amen, Amen.</p>
+            <p>You are too Seraphical and Allegorical in your preaching; you exceed the capacity of plain people;<note place="margin">
+                  <hi>Obj.</hi> 2.</note> the vulgar cannot reach you: nay, notwithſtanding your Seraphical ſpirit hath flown above and againſt Parſonages, yet now you hunt after one, <hi>&amp;c.</hi>
+            </p>
+            <p>This childe fathers it ſelf: the falſhood is proportionable to the patrons and fomenters of it.<note place="margin">
+                  <hi>Sol.</hi> 1.</note> Princes and Prelates muſt ſpeak like themſelves; a little lye will not fill a great mans mouth. Let thoſe Dons and Doctors make it appear, that I hunted after a Parſonage.</p>
+            <p>If they ſpeak Ironically,<note place="margin">
+                  <hi>Sol.</hi> 2.</note> and jeer me when they ſay I am too Seraphical, then the ball rebounds into their own faces, and the arrow falls on their own pate. For,</p>
+            <p>If by Seraphical they mean a high flying fancy, then how ſuper-Seraphical muſt they needs be who judge me? <hi>Rectum eſt index ſui &amp; obliqui.</hi> They have the Cap already, and long for the Mitre. If my fancy be beyond the Moon (as I would have it be) how far beyond the Moon muſt theirs flye, to take the alti<g ref="char:EOLhyphen"/>tude of mine? A Dwarfe cannot pull off a Gyants cap. He that undertakes to top anothers light, muſt be taller in his own opinion: thus while he judgeth another, he expoſeth himſelf to cenſure for the ſame thing. But remember,</p>
+            <q>
+               <l>To put out others light be not too bold;<note place="margin">Quarles.</note>
+               </l>
+               <l>The Temple-ſnuffers were of pureſt gold.</l>
+            </q>
+            <p n="2">2. If by Seraphical, they mean an empty notion and high fly<g ref="char:EOLhyphen"/>ing fancy onely, without ſolid ſubſtance and practical reality; yet ſo the Epithet ſticks faſt to them. For even they themſelves,
+<pb n="19" facs="tcp:37262:13"/>among black-coates and gray-coats, who preach and prate a<g ref="char:EOLhyphen"/>gainſt me, who ſeem (or at leaſt would ſeem) to beat down emp<g ref="char:EOLhyphen"/>ty notions, and build up pure practice, even theſe (whom I can name) can covet, and clutch more with one haud, then I can or dare hold with both.</p>
+            <p>But if by Seraphical they mean honeſtly properly, and plainly,<note place="margin">
+                  <hi>Sol.</hi> 3.</note> then I rencunce not the attributes, but could wiſh rather that I did better deſerve it. That you may know my minde, I crave your patience a little.</p>
+            <p>It is a common received opinion, that there are four orders or ranks of Angels, of which ſome make this difference and diſtin<g ref="char:EOLhyphen"/>ctions. 1. There are Angels in the vulgar acception, which they picture in the ſhape of a man, with wings, and their feet touch<g ref="char:EOLhyphen"/>ing the earth. 2. Archangels, without feet, cut off in the midſt, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ther from the earth. 3. Cherubims, with faces and wings, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>out bodies, as more remote from corporeal and terrene matter and form. 4. Seraphims, without any humane ſhape or figure, repreſented in a yellowiſh colour and fiery flame, as moſt abſtract, tranſcendent, and ſeparated from all humane <hi>idea's</hi> and earthly notions. I conſent to the conceit, and ac<g ref="char:EOLhyphen"/>knowledge the myſtery and Miniſtery of our Lord Jeſus Chriſt in all, who was,</p>
+            <p n="1">1. Made fleſh, and dwelt among us, <hi>Joh.</hi> 1.14. who is to be ſeen, and felt, and handled by us, 1 <hi>Joh.</hi> 1.1, 2, 3. who took part with us in fleſh and blood, <hi>Heb.</hi> 2.14. his feet toucht our earth; who walked in our nature; who firſt deſcended into the lower parts of the earth, before he aſcended into the hights of heaven, <hi>Epheſ.</hi> 4.9, 10. <hi>Joh.</hi> 3.13.</p>
+            <p n="2">2. Afterward he appears like <hi>Michael</hi> the Archangel, fight<g ref="char:EOLhyphen"/>ing our battels, making war in heaven with the Dragon and his Angels, <hi>Rev.</hi> 12.7. to ſhew, that as we wreſtle not with fleſh and blood, but ſpiritual wickedneſs in heavenly places, <hi>Eph.</hi> 6.12. ſo the weapons of our warfare ſhould not be carnal, 2 <hi>Cor.</hi> 10. our feet ſhould not ſtand on the ground, we ſhould have no confidence in the fleſh, <hi>Phil.</hi> 3.3. we ſhould not truſt in the worldly Sanctuary, nor lean on the falſe and fleſhly righteouſ<g ref="char:EOLhyphen"/>neſs of the Law; but that we ſhould fight the good fight of Faith, 2 <hi>Tim.</hi> 4.7. by which we get the victory, 1 <hi>Joh.</hi> 5.4 5.
+<pb n="20" facs="tcp:37262:14"/>that the foot of pride ſhould be cut off, <hi>Pſal.</hi> 36.11. <hi>Mat.</hi> 18.8. that the pride (of our works and walkings) might be hid from us. <hi>Job</hi> 33.17.</p>
+            <p n="3">3. Then he is ſeen as a Cherubim; without the groſs hue of legal ſervices and bodily exerciſe, which profit little, 1 <hi>Tim.</hi> 4.8. but with an head onely and wings, to ſhew how ſwift and quick he is of underſtanding to know and do his fathers will, <hi>Iſa.</hi> 11.3. <hi>Pſal.</hi> 40.7, 8. to ſhew alſo how that all the fore-going, inferior or lower diſpenſations of his in the body ſhould fly up, and we with them reſting in him, as being his body who is our head, <hi>Col.</hi> 1.18. the head of principalities and powers, <hi>Col.</hi> 2.10. the head over all things to the Church, <hi>Eph.</hi> 1.22. In this our head (the ſeat of underſtanding) are hid all the treaſures of wiſdome and knowledge, <hi>Col.</hi> 2.3. and our life with it, <hi>Col.</hi> 3.3. to ſhew that, although we are the Body of Chriſt, we ſhould not (through ſelf-denyal) be ſeen in any thing, <hi>Gal.</hi> 2.20. 1 <hi>Cor.</hi> 15.10. or aſcribe any thing to our ſelves, as they <hi>Mat.</hi> 25.44. <hi>Act.</hi> 3.12, 13.16. As Chriſt our Lord (<hi>Phil.</hi> 2.7.) ſubmitted to an ex<g ref="char:EOLhyphen"/>inanimation of himſelf to come down to us;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Mat. 16.24, 25.</note> ſo ſhould we ſuffer an annihilation of our ſelves to go up to him, loſe our lives to ſave them. Our lives are ſafer out of ſight in Chriſt, and neerer unto heaven, then in never ſo great appearance in us, or a name that we are alive. While we behold the face of our Cherub, we vaniſh out of our own ſight. 2 <hi>Cor.</hi> 3.18.</p>
+            <p>As our head (Chriſt) had wings to flye up unto his head (which is God) <hi>Joh.</hi> 17.1.5. ſo have we wings to fly up to our head, <hi>Rev.</hi> 12.14. <hi>Iſa.</hi> 40.31. we have the creation and the Scriptures in them, Law and Goſpel, Letter and Spirit; Hiſtory for the rational, and Myſtery for the ſpiritual man: which, as the Armes and wings of the body are placed in contrapoſition, though they be of oppoſite diſpenſation, yet in ſervice, uſe and end they are concentrick and meet in one, in Angels and Cheru<g ref="char:EOLhyphen"/>bims, in body and head, in Chriſt and the Saints. The Cheru<g ref="char:EOLhyphen"/>bims were ſet one directly againſt the other, each looking on o<g ref="char:EOLhyphen"/>ther,<note place="margin">Exod. 25.19, 20 &amp; 37.8, 9.</note> and both upon the mercy-ſeat; the Law and Goſpel, thoſe two great configurations of Heaven, have a mutual aſpect, both centring in Chriſt their body, head, ſubſtance and truth, <hi>Joh.</hi> 1.17. <hi>Col.</hi> 2.17. The Goſpel is a myſtery hid from us under
+<pb n="21" facs="tcp:37262:14"/>veiles and coverings of figures and ſhadows in the former ages of our fleſhly life, <hi>Col.</hi> 1.26. while we are under tutors and go<g ref="char:EOLhyphen"/>vernors, <hi>Gal.</hi> 4.1, 2. And then the ſpirit of propheſie in the Saints is enquiring and ſearching diligently after the time of Grace pro<g ref="char:EOLhyphen"/>miſed, 1 <hi>Pet.</hi> 1.10, 11, 12. and the Angels of the firſt taberna<g ref="char:EOLhyphen"/>cle, who walked in the worldly Sanctuary, whoſe feet touch<g ref="char:EOLhyphen"/>ed the earthly things (<hi>Joh.</hi> 3.13.) they deſired to pry into this myſtery; but when Chriſt is revealed in us (<hi>Gal.</hi> 1.16) as the hope of glory (<hi>Col.</hi> 1.27.) then are the Law and Prophets ful<g ref="char:EOLhyphen"/>filled, and all promiſes performed, 2 <hi>Cor.</hi> 1.20.</p>
+            <p>The Jew bewailes her little ſiſter, <hi>Cant.</hi> 8.8. the Gentiles con<g ref="char:EOLhyphen"/>dole her divorced; the Jew groans after the Gentiles converſion, the Gentile longs for the Jews recovery and return, the Jew grieves to ſee the Gentile lie in heatheniſme and Atheiſm, as with<g ref="char:EOLhyphen"/>out God in the world; the Gentile would be glad to ſee the Jew caſt off their whoriſh habit and attire of an harlot, to forſake the traditions of men, and ceremonies of <hi>Moſes,</hi> and imbrace the faith of the Goſpel: the Law longs for the liberty of the Goſpel,<note place="margin">Rom. 8.19, &amp;c.</note> the Goſpel mourns for want of obedience to the Law: the Law deſires the manifeſtation of the ſons of God, the Goſpel requires the adoption to be obedient to the Law. Relations cannot be void of mutual affections.</p>
+            <p>To conclude, Chriſt appears as a Cherub, that is, as a maſter, over-maſtering, over-coming, and over-ruling all principality and power, ſin, curſe and death, <hi>Col.</hi> 2.14 15. As an Angel or Miniſtering ſpirit, he walked with us on his own feet, and waſhed ours, <hi>Joh.</hi> 13.5.10. &amp; 15.3. then, like an Archangel, he is cut off, <hi>Iſa.</hi> 53.8.) from the natural life and walking with men in the fleſh, lifted up a little higher from the earth upon the croſs; where, like <hi>Michael,</hi> he fought with, and overcame the Dragon and his Angels, <hi>Heb.</hi> 2.14, 15. then he flyes upward in his re<g ref="char:EOLhyphen"/>ſurrection and aſcenſion; and (like the Cherubims) ſpreads both his wings, of divinity and humanity, Law and Goſpel, Letter and Spirit, both united in him, over the Mercy-ſeat,<note place="margin">Rom. 8.1.</note> that there might be no more condemnation to us, but that we ſhould have boldneſs at the throne of grace, and finde help in time of our need. <hi>Heb.</hi> 4.16. becauſe our Cherub, our Chriſt, appears in the preſence of God for us, <hi>Heb.</hi> 9.24. this our Angel doth alwayes
+<pb n="22" facs="tcp:37262:15" rendition="simple:additions"/>behold the face of our Father in heaven,<note place="margin">Mat. 18.10.</note> whoſe face is the mercy-ſeat, <hi>Pſal.</hi> 4.6. &amp; 17.15. <hi>John</hi> 14.8. for, like his name, <hi>Exod.</hi> 34.6.7. it is merciful, gracious, pardoning, <hi>&amp;c.</hi> Foraſ<g ref="char:EOLhyphen"/>much then as all things work together for our good, and that by the Creation, Law, Goſpel, Letter, Spirit, <hi>&amp;c.</hi> God inten<g ref="char:EOLhyphen"/>deth to draw us nearer to himſelf, let us not neglect his great <hi>Salvation.</hi>
+            </p>
+            <q>
+               <l>God gave thy ſoul brave wings;<note place="margin">Mr. G. H. P<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>hant.</note> put not thoſe feathers</l>
+               <l>Into a Bed, to ſleep out all ill weathers.</l>
+            </q>
+            <p n="4">4. Laſtly, Chriſt is as a Seraph, a fiery flame, without any imaginary faſhion or forged Idea of the ſhadow and finite reaſon and thought of man. Though in the dayes of his fleſh, and af<g ref="char:EOLhyphen"/>ter his reſurrection he appeared in many forms, yet he left all and forſook them at his aſcenſion to the Father, by his reduction and reſolution into the Godhead, diſappearing, and deſerting all vi<g ref="char:EOLhyphen"/>ſibilities, when he delivered up the Kingdome to the Father, that God might be all in all. Now all Miniſtrations, Ordinances, Chriſt himſelf our life,<note place="margin">1 Cor. 15.24.28.</note> the word of truth by which we were be<g ref="char:EOLhyphen"/>gotten, all return into God: this is the perfect ſtate of Chriſt and in this ſtate we are perfected with him. Now are we dead indeed unto all that is ſelf, and alive onely in and unto God, <hi>Col.</hi> 3.3. this is pure and perfect ſalvation; ſalvation by fire, 1 <hi>Cor.</hi> 3.15. <hi>Heb.</hi> 12.28, 29. of which none but hypocrites and car<g ref="char:EOLhyphen"/>nal Goſpellers are afraid, <hi>Iſa.</hi> 33.14. 2 <hi>Theſ.</hi> 1.8. In this ſtate Chriſt our Saviour is an everlaſting Father.<note place="margin">Iſa. 9.6.</note> Fire is the genera<g ref="char:EOLhyphen"/>ting and productive principle of all things; without fire, no proli<g ref="char:EOLhyphen"/>fical vertue: fire alſo is the conſuming and deſtructive power of all things; ſo Chriſt is Alpha and Omega, the firſt and the laſt, the beginning and end of all things: he will never reſt, till he burn, de<g ref="char:EOLhyphen"/>vour all intermediates.<note place="margin">Pſal. 90.2.</note> From everlaſting to everlaſting he is God: everlaſting <hi>à parte ante, &amp; a parte poſt;</hi> whatſoever is interpoſed between theſe two everlaſtings, is but temporal, and muſt paſs away: meats for the belly, and the belly for meat, but God will deſtroy both it and them.<note place="margin">Compare Gal. 4.3. &amp; 2 Pet. 3 10. in Greek.</note> God will not ſpare the work of his own hands; even the heavens ſhall wax old, and the firmament melt away. Thoſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, thoſe Elements and
+<pb n="23" facs="tcp:37262:15"/>rudiments of the Law, by which we were diſciplined and taught in our non-age, ſhall be diſſolved by the conflagration of the Sera<g ref="char:EOLhyphen"/>phical or fiery diſpenſation.</p>
+            <p>
+               <hi>Gal.</hi> 3.19. We read that the Law was ordained by Angels, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: I had rather read it, Diſpoſed by Angels, as it is <hi>Acts</hi> 7.53. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, by the diſpoſition of Angels. To ordaine, implies a magiſterial ſupremacy, and Le<g ref="char:EOLhyphen"/>giſlative authority, which pertaineth onely to Chriſt in matters of the Church; but to diſpoſe of what is ordained, is the office of a Steward or Miniſter appointed thereunto; thus the Angels of the lower order miniſter in the worldly Sanctuary, and diſ<g ref="char:EOLhyphen"/>penſe the Letter: but there is <hi>(Eſh dath)</hi> a fiery law,<note place="margin">Deut. 33.2</note> the fire of the law, or a law of fire, which is ſaid to proceed <hi>(mimino)</hi> from his right hand: not out of his left hand, in the weakneſs of the letter, or wrathful miniſtration; but from his right hand, in demonſtration and power, a law of ſpirit and life, <hi>Rom.</hi> 8.2. which is the power of God unto ſalvation, <hi>Rom.</hi> 1.16. <hi>Pſal.</hi> 110.2. <hi>Iſa.</hi> 2.3. a law converting the ſoul, <hi>Pſal.</hi> 19.7, &amp;c. the everlaſting Goſpel which throws down Babylon, <hi>Rev.</hi> 14.6, 8. the miniſtration of this Law belongeth to the Cheru<g ref="char:EOLhyphen"/>bims and Seraphims, to thoſe that are of a more fiery, refined, and ſpiritualized principle, who have been taken up into the third heaven, and ſeen the myſtery of truth as it is in Jeſus; theſe are called able Miniſters of the New Teſtament, not of the letter,<note place="margin">Pſal. 104.4</note> but of the ſpirit, 2 <hi>Cor.</hi> 3.6. ſuch are a flaming fire. Such ſhould all endeavor to be; and ſo Seraphical would I be. I wiſh that I and all that upbraid me, had a larger meaſure of this Miniſtery, that we were able to ſhew God more clearly to men, and bring men more neer unto God. He that hath an ear to hear, let him hear what the ſpiritual Miniſtery of God is in the Church.</p>
+            <p>But, <hi>Cynthius aurem vellet,</hi> we muſt ſpeak no more of theſe things yet; the time may come when men will in<g ref="char:EOLhyphen"/>dure ſound Doctrine,<note place="margin">2 Tim. 4.3.</note> and not give heed to ſeducing ſpi<g ref="char:EOLhyphen"/>rits; then Parables and Allegories will not be ſpurned and ſcoffed at as too Seraphical. As men yet love to dally and play with the letter, and to cut ſuch a Religion out of the Scripture, as,
+<pb n="22" facs="tcp:37262:16" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="23" facs="tcp:37262:16" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="24" facs="tcp:37262:17" rendition="simple:additions"/>will indulge and mince their faults, that will keep their own ſin and Gods mercy a great way off from them, that will form ſuch a Chriſt without them, who can finde no room in their Inne, but muſt be thruſt out among their beſtial luſts: the crafty, ſubtle, ſerpentine,<note place="margin">Luke 2.7.</note> fox-like thoughts; the ambitious, proud, airy imagi<g ref="char:EOLhyphen"/>nations of men, are ſuch and ſo many, that Chriſt hath not where to lay his head in their hearts.<note place="margin">Mat. 8.20.</note> The chief Prieſts (generally the chief enemies of Chriſt) and the Scribes, could not away with the Parables &amp; Allegorical doctrine of Chriſt; 'twas ſo Seraphical, that it did ſcrue &amp; winde into their hard hearts; it did vex, &amp; fret, and gall their conſciences, ſo that his life was little enough to appeaſe their rage, <hi>Luk.</hi> 20.19. Allegories touch the quick, and bring things too cloſe and neer home; there's no evil or ſin ſpoken of, or againſt in all the Scripture, but an Allegory will make every particular man guilty of it. But we love not plain Engliſh; he that cannot daub with untempered morter, and ſow ſoft pillows under mens arms, <hi>Quid Romae faciet?</hi> What incouragement can he look for?</p>
+            <p>Yea,<note place="margin">
+                  <hi>Ob.</hi> 3.</note> but you are ſo immethodical, confuſed and indiſtinct, ſo blunt and vulgar in your expreſſions, that none of any parts and ingenuity deſire or care to hear you. But this objection you ſay came not from Court, though not far from it.</p>
+            <p>Come whence it will,<note place="margin">Sol.</note>
+               <hi>non bene conveniunt,</hi> neither ſo do the witneſs agree; this hath little kin to the former: they look as if they would meet in the Antipodes. But, I pray Sir, what method do we finde preſcribed in the Scripture? did they not all ſpeak as the Spirit gave them utterance? are we not to propheſie accor<g ref="char:EOLhyphen"/>ding to the proportion of faith? hath not every man his proper gift? let his matter be good, and I diſlike not the method of any man: doubtleſs orderly proceeding is commendable; but whe<g ref="char:EOLhyphen"/>ther we muſt go to <hi>Athens</hi> or <hi>Jeruſalem</hi> for that form, to me is no queſtion at all: and that many under pretence of rule, and art, and method, have ſo minced their Sermons into cippets of cu<g ref="char:EOLhyphen"/>rioſity, that little of edification hath been to be found in them, to you is not ſtrange.</p>
+            <p>Maſter <hi>Cradock,</hi> heretofore in <hi>Briſtoll</hi> deſervedly declaiming againſt the too great niceneſs of young Scholars and raw prea<g ref="char:EOLhyphen"/>chers, had a paſſage to this purpoſe: There be ſome that think
+<pb n="25" facs="tcp:37262:17"/>all divinity and the myſtery of Chriſt and the Goſpel is bound up in Schoolmen and Common-place-books; and if they can patch up a Sermon or two with Logical definitions, diviſions and ſub<g ref="char:EOLhyphen"/>diviſions, <hi>&amp;c.</hi> Oh, preſently they think themſelves brave fellows, they have the Syſteme and whole body of Divinity alwayes a<g ref="char:EOLhyphen"/>bout them; as if (ſaid he) the Myſtery of Chriſt and the Goſ<g ref="char:EOLhyphen"/>pel could be carryed from <hi>Oxford</hi> into the country in a clog-bag. Surely he had too much cauſe to jerk the wanton wits of green-headed Sophiſters; which are alſo met with by an honorable and worthy Gentleman, thus:</p>
+            <q>
+               <lg>
+                  <l>As men, for fear the Stars ſhould ſleep and uod,</l>
+                  <l>And trip at night, have ſpheres ſupply'd;</l>
+                  <l>As if a Star were duller then a clod,</l>
+                  <l>Which knows his way without a guide:</l>
+               </lg>
+               <lg>
+                  <l>Juſt ſo the other Heav'n they alſo ſerve,</l>
+                  <l>Divinities tranſcendent sky:</l>
+                  <l>Which with the edge of wit they cut and carve.</l>
+                  <l>Reaſon triumphs, and Faith lyes by.</l>
+               </lg>
+               <lg>
+                  <l>Could not that wiſdom which firſt broach'd the wine,</l>
+                  <l>Have thicken'd it with definitions?</l>
+                  <l>And jagg'd his ſeamleſs coat, had that been fine,</l>
+                  <l>With curious queſtions and diviſions?</l>
+               </lg>
+               <lg>
+                  <l>But all the doctrine which he taught and gave,</l>
+                  <l>Was clear as heav'n, from whence it came:</l>
+                  <l>At leaſt thoſe beams of truth which onely ſave,</l>
+                  <l>Surpaſs in brightneſs any flame.</l>
+               </lg>
+               <lg>
+                  <l>Love God, and love your neighbor. Watch and pray.</l>
+                  <l>Do as you would be done unto.</l>
+                  <l>O dark inſtructions,<note place="margin">So ſhould Mr. <hi>Goffe</hi> have done.</note> ev'n as dark as day;</l>
+                  <l>Who can theſe Gordian-knots undo? <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+            </q>
+            <p>
+               <pb n="26" facs="tcp:37262:18"/>You deny the Reſurrection,<note place="margin">
+                  <hi>Obj.</hi> 4.</note> therefore deſerve not any incou<g ref="char:EOLhyphen"/>ragement.</p>
+            <p>Prove it,<note place="margin">Sol.</note> and puniſh me. He deſerves not to ſcape ſcotfree who is of that opinion. There are, you ſay, two great men, and they no ſmall fools neither, who have reported it in your hearing; the one no leſs then a Juſtice of Peace. When you ſee that wor<g ref="char:EOLhyphen"/>ſhipful gentl. put him in minde, that <hi>qui ſtatuit aliquid, parte inaudit â alterâ aequum licet ſtatuerit, haud aequus fuit.</hi> A Juſtice of Peace ſhould have two ears.<note place="margin">Sen.</note> Teach him ſome law, and more honeſty: he hath too little of both. This is the man that hanged me before he heard me (I think he never ſaw me) that concluded peremptorily like a Juſt — if Maſter <hi>Goffe</hi> miſſed the Parſonage, yet <hi>Pinnel</hi> ſhould not have, who ever had it. He had a Paſtor of a flock to prefer, who could have left his own ſheep for the fleeces of others; he might have done it: gaine is godlineſs in ſome Clerks bibles, and covetouſneſs no ſin; the Juſtice of Peace would have allowed it. I know the man, and would name him, but for the reſpects I owe to ſome of his re<g ref="char:EOLhyphen"/>lations. I can produce the letters of two Juſtices, as well known &amp; better deſerving in their country, then he, which accuſe me of no ſuch thing; and had they not been ſo Encomiaſtick, and abound<g ref="char:EOLhyphen"/>ed with reſpects, they might have ſeen the light. In brief, tell the Juſtice from me, that he that ſhall go about to defraud and cheat another of his eſtate, is one that yet lies dead in deceit and covetouſneſs, and practically denies the Reſurrection.</p>
+            <p>The other Comrade is Maſter <hi>Goffe,</hi> whom you heard report it. 'Tis no matter who invented it: the Proverb is fulfilled, <hi>Like prieſt,</hi>
+               <note place="margin">Jer. 20.10.</note>
+               <hi>like people;</hi> report, and we will report it, is no new thing. If the Parſon hath his Bible about him, ask what is written, and how he readeth <hi>Pſal.</hi> 15.3. deſire him to turn to <hi>Col.</hi> 3.1.5. If he be riſen with Chriſt, how is it that his locoriſh and leacher<g ref="char:EOLhyphen"/>ous tooth remains yet in his head, that he muſt needs force an unwilling people, to fulfill his unclean deſire? that which is bred in the bone, will hardly out of the fleſh: there's no cure for him but death; adviſe him to the croſs, perſwade him to mortifie his covetouſneſs after earthly things, which is idolatry, and minde heavenly things more; elſe he will be cenſured for more then a verbal Sadduce, and taken for one, who in deed (more then in
+<pb n="27" facs="tcp:37262:18"/>word) denyes the reſurrection. Let his life prove his faith. 'Tis nothing now, there be ſo many good books abroad to borrow a Sermon, or read ones notes to the people. 'Tis good to preach out of the Pulpit. <hi>Bene loqui, &amp; male vivere, nihil aluid eſt quam ſuâ ſe voce damnare.</hi> What I have here ſpoken <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Proſp.</note> cuttingly, is to make him more ſound in faith and practice, <hi>Tit.</hi> 1.13.</p>
+            <p>You are vehemently ſuſpected,<note place="margin">
+                  <hi>Ob.</hi> 5.</note> and it is ſecretly whiſpered that you are tainted and toucht a little with Maſter <hi>John Good<g ref="char:EOLhyphen"/>wins</hi> opinion.</p>
+            <p>Maſter <hi>Goodwin</hi> is able to anſwer for himſelf,<note place="margin">Sol.</note> I need not plead for him, nor am I aſhamed to be named with him. What miſtakes he (being but a man) is ſubject unto, I enquire not af<g ref="char:EOLhyphen"/>ter: he is no Pope to me; <hi>nullius addictus inrare in verba,</hi> I pin my faith upon no mans ſleeve. I fear thoſe that diſlike his doctrine, do alſo diſdaine his practice; he that ſhall convince him of error, and out-ſtrip, or but equal him in manners, <hi>erit mihi magnus Apollo,</hi> he ſhall be my Oracle. I wiſh his Do<g ref="char:EOLhyphen"/>ctrine and life were better underſtood and imitated.</p>
+            <p>There is a great noiſe and ſtir now a dayes about judgement and opinions (not but that there are many fooliſh and fantaſtical opinions abroad) but little care is taken about reformation of life. He that conſiders how difficult it hath been (not to ſay ſtill is) to remove an adulterous, drunken, ſwearing, idle, lewd, ſcandalous Parſon, and how eaſie it is to keep out a meerly ſup<g ref="char:EOLhyphen"/>poſed heretick, never yet convicted of error, will hardly be per<g ref="char:EOLhyphen"/>ſwaded that the Saturnine region of the golden age is hard by in the Platonick revolution. Were Colonel <hi>Goffe</hi> (for one) truly zealous for that he pretends, <hi>viz.</hi> pure doctrine and a holy life, were it not as eaſie for him to have his Spies and Setters for vi<g ref="char:EOLhyphen"/>tious Parſons as well as for great parſonages? but the plot is plain: he danceth in a net, and yet thinks that no man can ſee that his deſign is not ſo much to oppoſe error and evil in any man, as to create favorites, and gratifie them with the fat benefices of the land; as in this particular caſe: if I will be quiet, and let his Chaplain alone, I may have what freedom I pleaſe in private to ſeduce men, and ſow any dangerous opinions among them there. Whereas if I be not thought ſit to exerciſe my Miniſtry
+<pb n="28" facs="tcp:37262:19"/>in publike, by reaſon of any error or vice in doctrine or manners, I ought not to be tolerated in private; and if Colonel <hi>Goffe,</hi> &amp;c. are true to their principles, or rather have any true principle in them, they would convene me before ſome grave aſſembly, and deal with me as an heretick, if I ſo appear: if they do not ſo, I pronounce and proclaime them vain talkers, abominable hypo<g ref="char:EOLhyphen"/>crites, and baſe diſſemblers with God and men. I flye not as guilty, I ſtand my ground, they may know where to finde me, I ſeek no corners; where I have been once, I dare go again; I live in my country where I am and have been known for as honeſt a man as any that ſhall aſperſe me.</p>
+            <p>But the truth is, the main drift of theſe ſuper-Seraphical men is to promote their minions, and monopolize all places of profit, while they make others bear the odium of deſiring them. <hi>Au<g ref="char:EOLhyphen"/>dacter calumniare,</hi> &amp;c. is a threed-bare maxime of <hi>Machiavel;</hi> what any knave dare to invent, every fool is ready to believe. Thus the Monkes and Fryers in <hi>Italy</hi> cry out againſt the Hugonites in <hi>France,</hi> that they were not men, but ſome ſtrange kinde of Monſters with heads like aſſes, ſnouts like ſwine, <hi>&amp;c.</hi> the cre<g ref="char:EOLhyphen"/>dulous popularity are poſſeſt with the perſwaſions of their prieſts, and cry out, Fie on them, fie upon them <hi>&amp;c.</hi> the firſt and greateſt faults were found with their heads, their notions and opinions were monſtrous: they did not ſay they had ſplay feet, bow leggs; their converſation could not be blamed. Many ſpeak evil of the things they know not, 2 <hi>Pet.</hi> 2.12. they muſt be aſhamed and ſilenced by a good converſation in Chriſt, 1 <hi>Pet.</hi> 3.16. <hi>Origen</hi> ſaith, that of all torments to the damned ſpirits, none is like to a devout and diligent reading of the Scripture: and <hi>Solomon</hi> tells us, that none torture the wicked like the righteous man with his con<g ref="char:EOLhyphen"/>verſation; therefore the wicked lieth in wait for him, becauſe he is not for his turn,<note place="margin">Wiſd. 2.11, 12 13, 14, 15, 16, 17, &amp;c.</note> he is clean contrary to him, he was made to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eprove his thoughts, he is grievous even to behold, his life is not like other mens, his wayes are of another faſhion, <hi>&amp;c.</hi> read the ſecond chapter of <hi>Wiſd.</hi> though it be Apocrypha. If men can ſwim with the ſtream (as 'tis hard ſwimming againſt it) and make it an Article of their faith, that</p>
+            <q>
+               <pb n="29" facs="tcp:37262:19"/>Regis ad exemplum totus componitur orbis.</q>
+            <q>
+               <l>A State-Religion ſtill hath been the ſize:</l>
+               <l>Who Non-conformes, is thought to be unwiſe.</l>
+            </q>
+            <p>Such a one is <hi>filius alba gallinae,</hi> a riſing man of the times: but to ſpeak againſt the vice and baſeneſs of a Prelate or potent man, heretofore was alike dangerous, <hi>Jer.</hi> 18.18. &amp; <hi>Amos</hi> 7.12, 13. he that preſſeth holineſs further then the extent of mens formali<g ref="char:EOLhyphen"/>ty, ſhall be ſmitten with the tongne, and have devices deviſed againſt him, as one too notional, whimſical, Seraphical, an Arminian, Ranter, denying the Reſurrection, what not? Let him be baniſhed from <hi>Bethel,</hi> and ſent into the land of <hi>Judah.</hi> A greed, let it be ſo. <hi>Bethel</hi> is the houſe of God, in the lite<g ref="char:EOLhyphen"/>ral miniſtration, where <hi>Jeroboam</hi> (the ſighter againſt the people, that reſiſteth their ſpiritual and pure obedience to God) hath ſet up his golden calves, of mans gilded and idolatrous conceits and reaſon, and hath made it a den of theeves: but <hi>Judah</hi> is con<g ref="char:EOLhyphen"/>feſſion to the praiſe of God, the ſpiritual land of peace, where men live to the praiſe of God, and the glory of his rich Grace: <hi>Judah</hi> ruleth with God, and is faithful with the moſt holy:<note place="margin">Hoſ. 11.12</note> let me be baniſhed into that country; I ſhall be content to be the worlds exile.</p>
+            <p>When <hi>Ariſtides,</hi> ſurnamed the Juſt, was to be baniſhed <hi>Athens,</hi> for no other reaſon, but becauſe he was a vertuous man, he went out of the City to hear news; meeting with a country-man going to give his Vote againſt him for his baniſh<g ref="char:EOLhyphen"/>ment, he asked his buſineſs; I go (ſaid the man) to give my voice again <hi>Ariſtides.</hi> Do you know <hi>Ariſtides?</hi> No: hath he done you any wrong? No, not any. Why then will you have him baniſhed? <hi>O non placet mihi hoc nomen juſtus:</hi>
+               <note place="margin">Mande<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> I cannot indure a man that will be ſo good and juſt. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaith another, We will have none of our Citizens ſhall be too good. The world will take care of its own, that they ſhall not exceed in vertue, goodneſs, honeſty, holineſs, <hi>&amp;c.</hi> as for the reſt, away with them, away with them, they are not for our turn, their wayes are of another faſhion, they object to our infamy the wickedneſs of our education,<note place="margin">Wiſd. 2.</note> they boaſt that God is their
+<pb n="30" facs="tcp:37262:20"/>Father, and that they ought to be like him to be holy as he is holy in all manner of converſation, theſe are our eye-ſores, out of ſight with them, we ſhall never be quiet for them, it is not fit ſuch men ſhould live, fie upon them, crucifie them, crucifie them.</p>
+            <p>A little further, with your patience Sir, this is a conſider<g ref="char:EOLhyphen"/>able point. I hold it as a facred Canon of our Lord, never to be repealed;<note place="margin">Joh. 7.17.</note> If any man will Do his will, he ſhall know of the Doctrine, whether it be of God. What ſymptoms or Cha<g ref="char:EOLhyphen"/>racters ſoever elſe may be ſuperadded, this remains inviolable and infallible,<note place="margin">Mat. 7.16.</note> By their fruits you ſhall know them. Where manners are not minded and mended, there doctrine it ſelf may be ſuſ<g ref="char:EOLhyphen"/>pected for humane. In the councel of <hi>Trent,</hi> the maſter-piece and maine ſervice of the Pope's Legate,<note place="margin">Hift. Concil. Triden. <hi>p. 342. 144,</hi> &amp;c.</note> was to ſhuffle and ſhift off the reformation of the Court of <hi>Rome,</hi> which he did for divers months and yeers; this bred great diſcontent and conteſta<g ref="char:EOLhyphen"/>tion. The zealous Prelates of the Spaniſh faction, out of de<g ref="char:EOLhyphen"/>votion, and the Imperialiſts upon other deſigns, preſs hard for a<g ref="char:EOLhyphen"/>mendment of life. A rich Prelate among them inculcated it much, ſaying, that ſo long as their veſſels were not cleanſed, the Holy Ghoſt would not dwell in them. The great Cardinal <hi>Santa Croce</hi> could not but (ſeemingly at leaſt) commend it: but with what cunning devices and trickes the Papalins (zealous a<g ref="char:EOLhyphen"/>gainſt error and hereſie, ſo called) ſtill ſtav'd it off that hiſtory (a book worth the reading) will inform you. <hi>England</hi> was never more ban'ed &amp; bewitch'd then by a proud, covetous, contentious, ſcandalous Clergy, who commonly are the firſt that cry out a<g ref="char:EOLhyphen"/>gainſt errors, ſects, <hi>&amp;c.</hi> like the womans daughter, who would have her mother call the honeſt woman whore firſt, leſt ſhe ſhould be called ſo her ſelf. Let Mr. <hi>J. Goodwin</hi> defend his doctrine; his life will defend him againſt thoſe that come ſhort of him. I wiſh his converſation were more fairly copyed out by the great Scribes of our age; what hope we have to gain upon the Papiſts by do<g ref="char:EOLhyphen"/>ctrine, when our grand Impugners of them are as bad, if not worſe then they in practice?</p>
+            <p>Of all kinde of cattel, I care leaſt for a corrupt Clergy; ſuch as theſe I utterly diſlike, and (not a true Miniſtry, or godly Mi<g ref="char:EOLhyphen"/>niſters) I publikely teſtifie againſt, as thoſe from whom I would receive neither Ordination or approbation, <hi>viz.</hi>
+            </p>
+            <p>
+               <pb n="31" facs="tcp:37262:20"/>If any perſonal or domeſtick Chaplain to any King or Potentate in <hi>France, Spaine</hi> or <hi>Italy</hi> ſhall ſo diſhonor and undervalue his Prince or Soveraigne, who hath the publike profits of his Nati<g ref="char:EOLhyphen"/>on, as not to be content with that ſalary his Prince alloweth, which is ſuppoſed to be ſufficient and a meet competency, but withall ſhall hold a Fellowſhip in a Colledge (enough to main<g ref="char:EOLhyphen"/>tain another man comfortably) and beſides that, ſeek the colla<g ref="char:EOLhyphen"/>tion of one hundred, two hundred, or three hundred pounds <hi>per annum</hi> (enough to preſerve and ſuccor many families) as a perpetual gratuity for half the ſervice, or leſs, which another hath done for a flap with the fox taile; Let ſuch a man be cenſured for an Epiſcopal Pluraliſt, or ſuper-ſeraphical monoplizer, <hi>ipſo facto,</hi> till he be converted, and repent of his ſcandalous error.</p>
+            <p>Whether he that devours as much of the Common-wealths means, as would well ſuffice two, four, ſix, or eight families,<note place="margin">Quere.</note> is not to be reputed as unprofitable a member thereof, as <hi>Wood</hi> of <hi>Kent,</hi> or <hi>Marriot</hi> of <hi>Grayes Inn?</hi>
+            </p>
+            <p n="2">2. If any Paſtor of a gathered Church, whoſe judgement is yet for that form of Church-government, ſhall forſake his flock, and leave them at ſix and ſeven on the mountains, and in the wil<g ref="char:EOLhyphen"/>derneſs, in <hi>England, Scotland, Ireland</hi> or <hi>Wales,</hi> while he ſeeks or takes the honors and profits of a Colledge or Regiment; let him be judged an hireling <hi>ipſo facto,</hi> till he amend and forſake this his ſcandalous practice.</p>
+            <p>Whether a Paſtor of a people (ſo called,<note place="margin">
+                  <hi>Quer.</hi> 1.</note> and ſo own'd) may forſake that people, being not renounced by them without great offence, and ſuſpition of faulty principles?</p>
+            <p n="2">2. Whether a Miniſter and a people ſtanding in their own account as husband and wife (often ſo compared) though they do mutually conſent, may defraud each other longer th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n faſt<g ref="char:EOLhyphen"/>ing and prayer do require; or if they exceed that time, whe<g ref="char:EOLhyphen"/>ther they do not expoſe themſelves to Satans temptations for their incontinency: and whether a plain divorce, for juſt cau<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, were not better then ſuch unhandſome and diſcommendable way of life?</p>
+            <p n="3">3. Whether they who upon by-ends of abſence feed their flock by
+<pb n="32" facs="tcp:37262:21"/>Proxy ſhall not go to heaven, and receive their reward ſo? This Q<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere hath countenance from what I have heard Maſter <hi>Peters</hi> preach once and again; ſpeaking of preachers who expected their reward at the laſt day, God (ſaid he) will firſt ask of them, and ſay, to one, What did you preach for? I preached for 100, 200, 300 <hi>l. per ann.</hi> You had it. To another, What did you preach for? why, I preached for honor, great mens favour, to get a name <hi>&amp;c.</hi> well, you had your wages, had you not? To a third, And what did you preach for? truly Lord, I loved my eaſe; I did not, I could not preach at all (fine preachers in<g ref="char:EOLhyphen"/>deed) who fed the flock then? I got another. Well, let him take the wages that did the work; <hi>Go thou wicked and ſloth<g ref="char:EOLhyphen"/>ful ſervant,</hi> &amp;c. but what did you preach for? for love of thy Truth, to glorifie thy Name, to ſave ſouls, <hi>&amp;c. Well done good and faithful ſervant,</hi> &amp;c. what more true then this of Maſter <hi>Peters?</hi>
+            </p>
+            <p n="3">3. If any rich Parſon that hath his hundreds <hi>per annum,</hi> ſhall thruſt his childe or children into any Hoſpital, Charter-houſe <hi>&amp;c.</hi> which were founded and intended for the relief of neceſſitous and poor people who could not maintain and ſhift for themſelves; and ſo cauſe the bread of the needy to faile, and ſtarve the hun<g ref="char:EOLhyphen"/>gry ſoul: Let him be condemned for a thief and a murtherer <hi>ipſo facto,</hi> till he make reſtitution to the diſtreſſed, give to the poor what he hath pilfred from them, and cheated them of, ſteal no more, deſtroy no more, but ſuccour and ſave by a chari<g ref="char:EOLhyphen"/>table and liberal diſtribution, repenting of this odious injury and oppreſſive error.</p>
+            <p>Whether one that hath 100.200.400. <hi>l. per annum.</hi>
+               <note place="margin">
+                  <hi>Quer.</hi> 1:</note> may not better provide for his children then he that hath nothing?</p>
+            <p n="2">2. Whether Miniſters of ſuch yeerly income now, would be content that their children ſhould be put by ſuch places in caſe they had not wherewithal to provide other ways for them? will it not afflict and wound an indigent ſoul to ſee another who hath no need, go away with that which was appointed for him, and for want of which he is ready to periſh? Surely the cryes of the poor have a paſſage unto Gods ear, and God will certainly viſit for this kinde of oppreſſion and cruelty.</p>
+            <p n="3">3. Whether ſuch Miniſters live by faith?</p>
+            <p n="4">
+               <pb n="34" facs="tcp:37262:21"/>4. Whether they can preach confidently upon <hi>Exod.</hi> 20.15, 17. <hi>Thou ſhalt not ſteal; thou ſhalt not covet?</hi>
+            </p>
+            <p n="5">5. Whether theſe be not they ſpoken of <hi>Mat.</hi> 23.14. <hi>That devour widows houſes and for a pretence make long prayers?</hi>
+            </p>
+            <p>Whether they who have thus diſpoſed of ſuch places contrary to the Founders meaning and intent, be any longer to be intruſted with them? and whether it would not be a juſt preſident to pre<g ref="char:EOLhyphen"/>vent future unfaithfulneſs, if thoſe who have thus baſely diſpoſed of ſuch places, were compelled to maintain ſome poor mens chil<g ref="char:EOLhyphen"/>dren upon their own purſes?</p>
+            <p n="4">4. If any man (Doctor, Dean or Chapter) whoſe prin<g ref="char:EOLhyphen"/>ciples, like the weather-cock, may be blown about with the blaſts of fortune and ſucceſs, who of a Cavalier can become a Round-head in a moment, upon this ground (being demanded his reaſon) that he muſt drive the naile that would go; and to ſhew that his converſation is real and ſincere, upon clear con<g ref="char:EOLhyphen"/>viction, it ſhall be wrought when the Army is moſt proſperous; Let this man be truſted <hi>ipſo facto,</hi> as far as you can throw Bow<g ref="char:EOLhyphen"/>bell over <hi>Pauls</hi> ſteeple, till he repent of this his temporizing error.</p>
+            <p>Whether that ſaying be commonly true,<note place="margin">
+                  <hi>Quer.</hi> 1.</note> Late repentance is ſeldome true? <hi>Paenitentia ſera rarò vera.</hi>
+            </p>
+            <p n="2">2. Whether politick compliance be to be truſted and reward<g ref="char:EOLhyphen"/>ed before conſtant fidelity?</p>
+            <p n="5">5. If any man of war with the ſword of blood in his hand, ſhall be deputed and undertake to be a commiſſioner and by his approbation to qualifie or inable a meſſenger of the Goſpel of peace and builder of the Lords houſe; and he, ſo qualified by him, think himſelf better fitted or furniſht thereby, Let the one be cenſured for a hard, and the other for a ſoft head <hi>ipſo facto,</hi> till they learn more humility and diſcretion, and both repent; the one of his preſumption, and the other of his ignorance.</p>
+            <p>Whether <hi>David</hi> or <hi>Solomon</hi> was to build the temple of the Lord; and whether <hi>Elis</hi>'s ſons,<note place="margin">Quere.</note> or <hi>Samuel</hi> were to ſerve at the Altar of God?</p>
+            <q>
+               <l>— Licuit, ſemperque licebit</l>
+               <l>Parcere perſonis, dicere de vitiis.</l>
+            </q>
+            <q>
+               <pb n="34" facs="tcp:37262:22"/>
+               <l>It lawful was, and ſtill ſhall be</l>
+               <l>To ſpeak of vice, and let the name go free.</l>
+            </q>
+            <p>None of all the fore-mentioned gang are Canonical in my Ka<g ref="char:EOLhyphen"/>lender: I cannot accept of their approbation to the Miniſtry: their practiſe is worſe then Maſter <hi>John Goodwins</hi> opinion.</p>
+            <p>Your book hath given great offence;<note place="margin">
+                  <hi>Obj.</hi> 6.</note> you are a loſt man in the Army: ſo much Maſter <hi>Goffe</hi> told me.</p>
+            <p>As for my book, the cloſe of it ſhall anſwer this objection;<note place="margin">
+                  <hi>Sol.</hi> 1.</note> 'tis to be ſeen of all: he that diſlikes it, may lay it aſide, till he be<g ref="char:EOLhyphen"/>ſtow better things on the world then are in it: I have no more to ſay for it to any man, but</p>
+            <q>
+               <l>Cum tua non edis, carpis mea carmina Leli?</l>
+               <l>Carpere vel noli noſtra, vel ede tua.</l>
+            </q>
+            <q>
+               <l>He that findes fault, and will not better do,</l>
+               <l>For a fault-finder, and no more ſhall go.</l>
+            </q>
+            <p>The Preſs is open, let him ſend forth more truth and greater light. I own all but the title, which was falſifyed at the Preſs; beſide the total omiſſion of the Emphaſis throughout, neglect of ſome Scriptures, miſ-quoting others, and ſome few miſtakes beſides, which I could not prevent in my abſence.</p>
+            <p>If I am loſt in the Army,<note place="margin">
+                  <hi>Sol.</hi> 2.</note> 'tis where Maſter <hi>Goffe</hi> was never yet found: though now he can be content to eat the fruit of my labor and hazard. One ſoweth, and another reapeth; though when I ſowed, it was in hope of a better harveſt, and greater li<g ref="char:EOLhyphen"/>berty then not to have a Petition received, or ſo much as admiſſion to be heard in a complaint. But <hi>neceſſitas non habet legem;</hi> hunger will break ſtone-walls: no law limits extremity. I know Maſter <hi>Goffe</hi> was neceſſitated to do what he did; he was lately married, and could not hold his fellowſhip in <hi>Oxford</hi> no longer; I know not whether he were perjured or no in holding his Fel<g ref="char:EOLhyphen"/>loſhip after he was married: a Parſonage now he muſt and will have; and ſuch a one as he hath, and is like to make it, who could reſiſt?</p>
+            <q>
+               <pb n="35" facs="tcp:37262:22"/>
+               <l>— Quid non mortalia pector a cogis</l>
+               <l>Auri ſacra fames.</l>
+            </q>
+            <q>
+               <l>Who can withſtand the force of Gold,</l>
+               <l>Or from its Lucre his heart withhold?</l>
+            </q>
+            <p>What will ſatiate the Canine appetire of inſatiable covetouſneſs? I grudge no man a Parſonage; he hath it, I had rather he ſhould have it (as he hath it) then I; his way of getting it I diſlike. Much good may he do in it, and with it; 'twas repor<g ref="char:EOLhyphen"/>ted he would give an hundred pound a yeer to the poor; if he add another, and double his bounty, there is enough beſides, as much as many a ſober man and his family live well withal: much good alſo may the over-plus of his liberality do him: I wiſh it heartily; not as <hi>Niceas</hi> the Philoſopher wiſhed to him that ſtole his ſhooes from him; much good may there be in all reſpects: we ought to return good for evil. I have nothing againſt his per<g ref="char:EOLhyphen"/>ſon; but I ſtand in utter deteſtation of his practice. I wiſh he may do the work of a Miniſter, and be adorned in minde as he is in body: 'tis pity a proper perſon ſhould have perverſe prin<g ref="char:EOLhyphen"/>ciples.</p>
+            <q>Gratior eſt pulchro veniens e corpore virtus.</q>
+            <q>
+               <l>Where pious parts as well as proper are,</l>
+               <l>That perſon all men will eſteem moſt tare.</l>
+            </q>
+            <p>I confeſs I am ſo loſt in the Army, that, I think,<note place="margin">
+                  <hi>Sol.</hi> 3.</note> I ſhall never more be found in it.</p>
+            <p>But bear with my folly, <hi>ſemel inſanivimus omnes,</hi> let me become a ſool, and glory a little. What is it that hath loſt me in the Army? why am I a loſt man there? Is it becauſe I pro<g ref="char:EOLhyphen"/>moted their deſign with two horſes in the beginning of the war, for which I have not ſeen penny unto this day? an offence which Maſter <hi>Goffe</hi> was never guilty of, I ſuppoſe. Or was it becauſe I preached in <hi>Beverſtone</hi> Caſtle about twenty weeks for nothing? or becauſe I preached twelve moneths and more in <hi>Notting<g ref="char:EOLhyphen"/>ham</hi>
+               <pb n="36" facs="tcp:37262:23"/>C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e at the ſame rate? or becauſe I gave the third part (all that I could get) of my Arrears in the Army to the wives and children of thoſe that could get nothing for ſervice? Fool that I am, though compelled, to let my left hand know what my right hand hath done.<note place="margin">2 Cor. 12.11.</note> Or was it becauſe I did reprove the recidina<g ref="char:EOLhyphen"/>tion and Apoſtacy<g ref="char:punc">▪</g> the diſſimulation and hypocriſie of the Par<g ref="char:EOLhyphen"/>liament and Army, to that valiant, modeſt, and no way ſelf-ſee<g ref="char:EOLhyphen"/>king General <hi>Fairfax?</hi> If I am become an enemy for t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lling the truth, let me be forgiven that wrong.</p>
+            <p>If it was not true for which I reproved them<g ref="char:punc">▪</g> and b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re witneſs againſt them <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Windſor,</hi> then why did the Parliament afterward, in one of their Declarations againſt the <hi>Scots,</hi> confeſs that the major part of them at that time were corrupt? and the Army in their Remonſtrance from Saint <hi>Albans,</hi> acknowledge that they were faulty in too much compliance with the enemy, and negli<g ref="char:EOLhyphen"/>gent in performance of their duty and ingagement? If my repre<g ref="char:EOLhyphen"/>henſion was juſt, why ſhould I be loſt in the Army for it? Yea, but if I were ſuch a loſt man there, as Maſter <hi>Goffe</hi> ſaith, then why did divers Officers ſince invite my return? and why did L. G. <hi>Cromwell</hi> himſelf (now his Highneſs) ſend his letter from <hi>Newark</hi> by the Governor of <hi>Nottingham</hi> Caſtle to the Com<g ref="char:EOLhyphen"/>mittee in my behalf, that I might be conſidered in relation to the Garriſon? a thing deſired by the Governor and ſouldiers, their own voluntary motion once and again to me. Thus far have I been a loſt man in the Army, farther then ever Ma<g ref="char:EOLhyphen"/>ſter <hi>Goffe</hi> was found in it. Nor am I yet afraid to look that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſt of men in the face<g ref="char:punc">▪</g> yea, I openly ſend this challenge to the whole Army, that if there be any error of judgement, or mat<g ref="char:EOLhyphen"/>ters of miſdemeanor to be laid to my charge, let all or any of them produce and prove it; if they make it good, I will be their cloſe priſoner for ever.</p>
+            <p>But if any muck-minded man or men, who, like the mole, are digging after the earthly advantages of great pay and places for little labor and ſervice: or if there be any among them who are dous'd over head and ears in the waters of worldly pleaſures and carnal delight, or dipped onely in the ſhallow fords of a hollow profeſſion and faith: or if there be any high ſoaring notioniſts ho<g ref="char:EOLhyphen"/>vering in the airy emptineſs of ſubtle and lean ſpeculations, vaniſh<g ref="char:EOLhyphen"/>ing
+<pb n="37" facs="tcp:37262:23"/>at laſt into a monſtrous nothing; and are not truely Sera<g ref="char:EOLhyphen"/>phical purifying their hearts with the fiery law of truth and love, with fervent charity and burning affection to the brotherhood, whoſe Religion is but a ſounding braſs and a tinckling Cymbal; ſuch as theſe I eſteem their words as winde, and account none of their clamors or calumnies any of my guilt or ſin.</p>
+            <p>With what indulgent Bull — liberty of conſcience ſome men can diſpence with taking 10.20 30, 40, ſhillings <hi>per diem</hi> to wear a ſword by their ſide, and walk up and down with a belt about their ſhoulders, I know not; I am to render a reaſon of mine own actions, and to give an account for none but my ſelf. If I would, I think I might as well take Tythes, to which no particular man can lay claime, for preaching as a Miniſter, as re<g ref="char:EOLhyphen"/>ceive eight ſhillings <hi>per diem,</hi> as a Chaplain in the Army which is ſqueezed and iſſued out of the labor and ſweat of indigent and more neceſſitous men then my ſelf. I impoſe nor re<g ref="char:EOLhyphen"/>flect on any man; my faith is unto my ſelf and to God: the dan<g ref="char:EOLhyphen"/>ger makes me doubtful: great gain is a gin and ſnare which few eſcape, being taken with. And therefore to ſuch as ask why I cannot accept the Army-pay and promotion, I anſwer:</p>
+            <q>
+               <l>Olim quod vulpes agroto cauta leoni</l>
+               <l>Reſpondit referam,<note place="margin">Hor.</note> quia me veſtigia terrent,</l>
+               <l>Omnia te adverſum ſpectantia, nulla retrorſum.</l>
+            </q>
+            <q>
+               <l>What once the fox unto the lyon ſaid,</l>
+               <l>To be excus'd from coming to his den,</l>
+               <l>That I; the footſteps there make me afray:</l>
+               <l>Of all that go, there com's not one of ten.</l>
+            </q>
+            <p>Covetouſneſs and climing to great places is a leproſie; if ten of a thouſand be cured, hardly one of ten acknowledge it. When I ſee the irreverſible footſteps of vanity, I fear to follow: I have heard many ſouldiers and officers in the beginning of their march in the Army cry out againſt Lords of Mannors for extortion, oppreſſion, ambition, <hi>&amp;c.</hi> as being but <hi>Williams</hi> baſtards, Captain and Colonel of the <hi>Norman</hi> conqueror: but being ad<g ref="char:EOLhyphen"/>vanced themſelves to the ſame dignity, can now make no bones
+<pb n="38" facs="tcp:37262:24"/>to ſwallow Kings houſes and whole Lordſhips at a bit, when many of their fellows and companions in the ſame ſervice<g ref="char:punc">▪</g> hazard, &amp; hardſhip cannot get a cottage to ſhelter them. When I ſee ſuch Patriots and pleaders of their countreys liberty involved and in<g ref="char:EOLhyphen"/>extricably intangled in their predeceſſors ſnares, and when I ſee thoſe Gyants of the Goſpel-profeſſion (ſome of them fluviati<g ref="char:EOLhyphen"/>cally Religious) drowned in the dangers they ſeemed to avoid, and building the things they pretended to deſtroy, I am afraid what would become of me (a feeble reed to thoſe ſtrong pillars) if I ſhould be expoſed to the ſame temptations.</p>
+            <p>I remember Maſter <hi>Peters</hi> preaching his weekly Lecture at <hi>White-hall</hi> about <hi>November</hi> laſt was twelve moneths ſince, ta<g ref="char:EOLhyphen"/>king a juſt occaſion to rebuke the extravagant and luxuriant ex<g ref="char:EOLhyphen"/>ceſſes of the ſouldiery, he fell upon their exorbitant enormity handſomely, and (a his mode is) wittily, in this interlocutory paſſage, <hi>i.e.</hi> You<g ref="char:punc">▪</g> and you, you<g ref="char:punc">▪</g> I pray Sirs, what were you? what had you before the wars? why truly Sir, I was a poor Turn<g ref="char:EOLhyphen"/>ſpit, a Taylor, a Carpenters boy, a Weaver, an under-Clerk, <hi>&amp;c.</hi> I had little or nothing to live on; my hands were my lands <hi>&amp;c.</hi> Well: but what are you? What have you now? He ſtruts out his foot, cocks his Bever, ſets his arm a kemboll, and ſaith, Why Sir, I am a Captain, a Major, a Colonel, a Major-General<g ref="char:punc">▪</g> 
+               <hi>&amp;c.</hi> I have my Silkes, Satan (it ſhould be Sattin) Vel<g ref="char:EOLhyphen"/>vet, Pluſh, Scarlet, Gold lace, Cloth of Silver, what not? I am rich, and fare deliciouſlly every day, <hi>&amp;c.</hi> Brave, Sir; the world is well amended: but was this that you fought for? where is the relief of the oppreſſed, the ſupply of the needy? What's become of the wives and children of thoſe that have loft more then you have, their lives, which you have ſaved? is it enough that you give them one or two ſhillings for twenty ſhillings of their Arreares? was the end of your Covenant and fighting to enrich your ſelves, and impoveriſh others? I doubt Maſter <hi>Peters</hi> may preach this at every Parade with the ſame ſucceſs he did at firſt in White-hall-Chappel, to thoſe that are</p>
+            <q>
+               <l>Quales ex humili magna ad faſtigia rerum</l>
+               <l>Extollit, quotiet voluit, fortuna, jocari,</l>
+            </q>
+            <q>
+               <pb n="39" facs="tcp:37262:24"/>
+               <l>Such as whoſe fortunes, fortune hath in jeſt</l>
+               <l>Enlarged, for a time, beyond the reſt.</l>
+            </q>
+            <p>Such as <hi>Job</hi> ſpeaks of, and of whom <hi>Solomon</hi> complains,<note place="margin">Job. 30.1.</note>
+               <hi>Prov.</hi> 19.10. &amp; 30.22. <hi>Eccleſ.</hi> 10 7. I condemn not all: <hi>milli<g ref="char:EOLhyphen"/>bus in multis,</hi> ſome may be better; one of a thouſand; as he ſaid of our Gentry in <hi>England,</hi>
+            </p>
+            <q>
+               <l>Not that they all are ſo,<note place="margin">Mr. G. H.</note> but that the moſt</l>
+               <l>Are gone to graſs, and in the paſture loſt.</l>
+            </q>
+            <p n="1">1. Whether the old Parliament were juſtly accuſed,<note place="margin">
+                  <hi>Quer.</hi> 1.</note> complain<g ref="char:EOLhyphen"/>ed againſt, and condemned as guilty for imbezeling the publike treaſure and common ſtock of the Commonwealth, by gratifying their particular favorites, and allowing ſuch immoderate and ex<g ref="char:EOLhyphen"/>ceſſive fees to civil places and martial offices?</p>
+            <p n="2">2. VVhether thoſe that receive the ſame, be nor equally guilty, and to be cenſured for robbery done to their fellow-ſubjects, ſee<g ref="char:EOLhyphen"/>ing the receiver is as bad as the thief? VVhen thou ſaweſt a thief, thou conſentedſt with him<g ref="char:punc">▪</g> 
+               <hi>&amp;c. Pſal.</hi> 50.18. be not partaker of other mens ſins<g ref="char:punc">▪</g> 1 <hi>Tim.</hi> 5.22.</p>
+            <p n="3">3. VVhether at the beginning of the late Polemical and moſt unhappy controverſie, we did profeſs, engage, covenant and pro<g ref="char:EOLhyphen"/>teſt for common ſafety and liberty of conſcience onely, or for private gain and particular advantages, to purſe or pocket up to our ſelves the publike ſtock and Faith?</p>
+            <p n="4">4. VVhether we have paid our vows, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned our pro<g ref="char:EOLhyphen"/>ſes<g ref="char:punc">▪</g> proteſtations, <hi>&amp;c?</hi>
+            </p>
+            <p n="5">5. VVhether the Reubenites<g ref="char:punc">▪</g> Gadites<g ref="char:punc">▪</g> and half trib<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Ma<g ref="char:EOLhyphen"/>naſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h</hi> did ſit ſtill in their inher<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ance befor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their br<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad quiet poſſeſſion of theirs? <hi>Joſh.</hi> 1.14, 15. Or whether they were not child by <hi>Moſes</hi> for their f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ult therein? <hi>Numb.</hi> 3 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.6.</p>
+            <p n="6">6. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>heth<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t which ſome men avaritiouſly ſcr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem<g ref="char:EOLhyphen"/>ſelves, before <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> re<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rethren have indifferent and com<g ref="char:EOLhyphen"/>petent ſatisfaction with them, will prove any more then <hi>Aurum Tholoſſanum</hi> in the end; that which hath a worm in the root, of which it is ſaid, <hi>Non gaudet tertius haeres,</hi> it wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l not laſt to the worlds end?</p>
+            <p>
+               <pb n="40" facs="tcp:37262:25"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> my <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as <hi>D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mocri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <q>
+               <note place="margin">Hor.</note>
+               <l>Dixero ſi quid forte jocoſius, hoc mihi juris,</l>
+               <l>Cum ven<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>â dabis —</l>
+            </q>
+            <q>
+               <l>Take in good part</l>
+               <l>The milde and tart.</l>
+            </q>
+            <p>Again,</p>
+            <q>
+               <l>Suſpitione ſi quis errabit ſuâ,</l>
+               <l>Et rapiet ad ſe quod erit commune omnium,</l>
+               <l>Si ultè nudabit animi conſcientiam.</l>
+            </q>
+            <q>
+               <l>He that is guilty and is gall'd, will winch:</l>
+               <l>He that goes lame, I doubt his ſhoo doth pinch.</l>
+            </q>
+            <p>
+               <hi>Si quis eſt qui quid in ſe inclementius dictum exiſtimavit eſſe;</hi>
+               <note place="margin">Tert.</note>
+               <hi>ſic exiſtimet;</hi> He that is guilty and ſcorns to be told of it, let him turn the buckle of his girdle behinde him.</p>
+            <q>— Nemo me impune laceſſit.</q>
+            <q>
+               <l>None me provoke</l>
+               <l>Without a ſtroke.</l>
+            </q>
+            <p>Again,</p>
+            <q>
+               <l>— Ridentem <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Quid vetat?</l>
+            </q>
+            <q>
+               <l>If it be <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>A jerking jeſt is not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+            </q>
+            <p>Let <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be blameleſs, and they ſhall be ſhameleſs<g ref="char:punc">▪</g> the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cking heel.</p>
+            <q>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſibi de ſe putat omnia dioi.</q>
+            <q>
+               <l>He that is guilty o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>lt, will bluſh</l>
+               <l>He that is guiltleſs will not <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</l>
+            </q>
+            <p>
+               <pb n="41" facs="tcp:37262:25"/>A bad conſcience is the worſt condemnation. Who will, or can harm you, if you be followers of that which is good? 1 <hi>Pet.</hi> 3.13.</p>
+            <q>
+               <l>— Hic murus ahene as eſto:</l>
+               <l>Nil conſcire ſibi<g ref="char:punc">▪</g> null â palle ſoere culpa.</l>
+            </q>
+            <q>
+               <l>A conſcience clear and void of ſin,</l>
+               <l>Is braſs without and gold within.</l>
+            </q>
+            <p>Uprightneſs hath boldneſs; the righteous is a lyon: truth triumphs over falſhood and lyes: holineſs abhors wickedneſs. I hope there are many good men in the Army, them I love and honor; as for the reſt, <hi>ſperno me ſperni,</hi> I care leſs for them then they do for me; onely I pity and pray for them, but fear them not a jot: there's no danger for any man to pull an old houſe about his ears, when all the world is in a flame about him.</p>
+            <p>Who goeth a warfare at his own charges?<note place="margin">Obj.</note> will you not allow the ſouldier good pay for his great hazard?</p>
+            <p>Who hath gone to war on his own expence?<note place="margin">Sol.</note> but let none do violence to any, but be content with his wages; not taking his own pay and anothers too unto himſelf. Who hath not been payed by others, for getting his own freedom? I hope they ſhall not loſe theirs, who have payed for it.</p>
+            <p>There is but one thing more, concerning which I ſhall endea<g ref="char:EOLhyphen"/>vor to ſet my ſelf right in your opinion at this time, in reference to Maſter <hi>Goffe</hi> his doctrine<g ref="char:punc">▪</g> which I did diſlike and openly reprove. Two things you lay to my charge<g ref="char:punc">▪</g> as blame-worthy for ſo doing.</p>
+            <p n="1">1. The manner of my carriage; in that I did not firſt pri<g ref="char:EOLhyphen"/>vately admoniſh him of his error, according to the rule <hi>Mat.</hi> 18.15. To which I anſwer: If his offence had been againſt me to my particular prejudice onely, the rule had held, and bound me to what you ſay. But inaſmuch as Maſter <hi>Goffe</hi> (as yong as he is) pretends to be a Presbyter, or Elder, to boaſt of God<g ref="char:punc">▪</g>
+               <note place="margin">Rom. 2.</note> a guide of the blinde<g ref="char:punc">▪</g> a light to them that are in darkneſs, an inſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uct<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r of the fooliſh, a teacher of babes, which hath the form of know<g ref="char:EOLhyphen"/>ledge, and of the truth in the law; for him to deny the faith and
+<pb n="42" facs="tcp:37262:26" rendition="simple:additions"/>doctrine of the Goſpel to the diſcouragement of mens obedience thereto, he is rather to be rebuked before all, that others may al<g ref="char:EOLhyphen"/>ſo fear, 1 <hi>Tim.</hi> 5.20.</p>
+            <p n="2">2. But you queſtion whether there were ground of exception againſt the matter it ſelf, which you know was this. Maſter <hi>Goffe</hi> in the cloſe of his morning-Sermon (<hi>June</hi> 1.8.) had three particulars, one againſt by-ends, ſelf-intereſt, worldly advan<g ref="char:EOLhyphen"/>tages <hi>&amp;c.</hi> wherein he made a rod for his own back: 'tis well if he would follow his own doctrine,<note place="margin">Mat. 23.3.</note> and reform his practice; it would be a good example to his flock, 1 <hi>Tim.</hi> 4.12. there are who ſay, and do not. In his ſecond particular (wherein his error, for which I found fault) he commended and preſſed univerſal o<g ref="char:EOLhyphen"/>bedience to all Gods commands; and yet in the ſame breath de<g ref="char:EOLhyphen"/>nyed that there could be any ſuch obedience attained unto in this life, as being that which muſt be deferred till hereafter, to be per<g ref="char:EOLhyphen"/>fected when we come to heaven.</p>
+            <p>He that ſaith there is no perfect obedience attainable in this life, and yet will preach and preſs it, ſhould go and preach where ſuch are that can fulfil, and do what they are commanded: what do ſuch men on earth, where their Miniſtery cannot take effect? why do not they rather flye to heaven, and preach there to the glorified Saints and Angels? why do they not go and light their candle to the Sun, and teach theſe things in the New Jeruſalem, where they are that will ſave them a labour of ſpea<g ref="char:EOLhyphen"/>king twice, and do their duty before they are exhorted to it? why do they ſtay here, <hi>operam &amp; oleum perdere,</hi> to waſh a black moore white, unleſs it be for three hundred pounds <hi>per an<g ref="char:EOLhyphen"/>num? nemo tenetur ad impoſſibile;</hi> if there be no perfect obe<g ref="char:EOLhyphen"/>dience here, why do they put men upon impoſſibilities? <hi>Jerome</hi> complanied that there were too many in his time that were <hi>im<g ref="char:EOLhyphen"/>pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itorum Doctores, priuſqam Doctorum diſcipuli,</hi> ſuch as would teach others to run, before they could go themſelves; blind leaders of the blind,<note place="margin">Mat. 15.14</note> that cauſe the people to err, <hi>Iſa.</hi> 9.16. Mr. <hi>Goffe</hi> is but a young Divine; yet if he preach true divinity, none will deſpiſe his youth.</p>
+            <p>I know you ſtagger and ſtartle, and are ready to ſtumble at what I ſay; but give me leave to quiet and compoſe the heſitancy of your ſpirit, by recalling only one paſſage to your remembrance.
+<pb n="43" facs="tcp:37262:26"/>You know the young man in <hi>London,</hi> with whom I had the long conteſt about the in-being and dwelling of the holy Spirit in us. He could not be perſwaded that it was any more or otherwiſe then by his gifts and graces; there was no convincing him that it was perſonally, ſubſtantially and eſſentially: for if ſo, he thought it would neceſſarily fol<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at then we in whom the ſpirit ſo dwelleth, muſt needs be Gods. I inſtanced in Chriſt, in whom though the fulneſs of the God-head dwelt bodily, yet his body was not God: ſo the Saints proportionably and in like manner: yet he could not be ſatisfied. Shortly after, he told me he was at a ſtand, and could not tell what to think of my opinion; for yeſterday (ſaid he) I heard Maſter <hi>Tho. Goodwin,</hi> who preach't the ſame thing almoſt verbati<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Since that, he was reſolved; in the mouth of two witneſſes the word was eſtabliſhed. Thus hap<g ref="char:EOLhyphen"/>pily at firſt bluſh, univerſal obedience may ſeem as ſtrange to you as it was boldly denyed by Maſter <hi>Goffe:</hi> but I muſt tell you, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he that denyes univerſal obedience and perfection to be at<g ref="char:EOLhyphen"/>tained (not as though I had already attained, or were perfect) in this life, run<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> himſe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> upon theſe rocks, <hi>viz.</hi>
+            </p>
+            <p n="1">1. He is repugnant in his faith to theſe plain and point-blank Scriptures of the Old and New Teſtament, <hi>Gen.</hi> 17.1. walk be<g ref="char:EOLhyphen"/>fore me, and be thou perfect, <hi>Mat.</hi> 5.48. be ye perfect, even as your Father which is in heaven is perfect, <hi>Luk.</hi> 1.6. walking in all the commandments and ordinances of the Lord, blameleſs, <hi>Phil.</hi> 4.13. I can do all things through Chriſt that ſtrengthneth me, <hi>Phil.</hi> 3.14, 15. I preſs <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the mark; let the perfect be ſo minded: with many the like. Now he that ſaith there is, can be no ſuch thing, doth, in effect, give the lye to God, Chriſt and the A poſtle, as if they had called and exhorted unto they knew not what, as though there had been no ſuch thing of which they ſpake.</p>
+            <p n="2">2. He is an Alien from the Commonwealth of Iſrael, and a ſtranger from the covenants of promiſe (<hi>Eph.</hi> 2.12.) the covenant of God being this, that we ſhall know his judgements, and Do them, <hi>Ezek.</hi> 36.26, 27.</p>
+            <p n="3">3. He denys Gods All-ſufficiency, with which he incouraged <hi>Abraham</hi> to perfection <hi>Gen.</hi> 17.1. Is not God greater then the divel, 1 <hi>Joh.</hi> 4.4. &amp; ſtronger then the ſtrong man? <hi>Luk.</hi> 11.21, 22</p>
+            <p>
+               <pb n="44" facs="tcp:37262:27"/>He diſparageth the Grace of God in Chriſt, and all his moſt glorious and bleſſed Attributes, his Mercy, Power, Juſtice, Truth, faithfulneſs <hi>&amp;c.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s might eaſily be demonſtrated.</p>
+            <p>He overthrows Religion and a godly life; he doth (by conſe<g ref="char:EOLhyphen"/>quence) diſſwade and diſhearten from all ſtrictneſs and exactneſs of converſation, and a circumſpect walking in this preſent world. For v<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll ſet himſelf with all diligence, induſtry and intention of ſp<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, to comprehend that which is not to be comprehended? who will go about to ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ek that in this world, which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> onely to be found in another? what wider gate to ſe<g ref="char:EOLhyphen"/>curity, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>leneſs, lukewa<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eſs, indifferency in Religion, profa<g ref="char:EOLhyphen"/>neſs, avarice, murthers, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rections, rebellion, treaſon, diſobe<g ref="char:EOLhyphen"/>dience, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> manner of wickedneſs, then to deny perfect obe<g ref="char:EOLhyphen"/>dience in this life? by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> principle and poſition, Maſter <hi>Goffe</hi> may excuſe himſelf <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om doing as he would be done unto: And Colonel <hi>Goffe</hi> may <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtifie his force and violence, his treachery and affront which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e hath or ſhall offer againſt any power, au<g ref="char:EOLhyphen"/>thority and government, whether paſt or preſent, under pretence of making that up hereafter in heaven, of which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> comes ſhort here on earth.</p>
+            <p>I charge not the Colonel further then he hath made himſelf guilty. There be two Acts of Parliament (which were once taken for law) the one intituled, An Act prohibiting the proclaim<g ref="char:EOLhyphen"/>ing any perſon<g ref="char:punc">▪</g> 
+               <hi>&amp;c.</hi> paſſed <hi>Jan.</hi> 30. 1648. the other intituled, An Act for the aboliſhing of the Kingly Office, <hi>&amp;c.</hi> paſſed <hi>March</hi> 17. 1648. Let him read thoſe Acts; if they con<g ref="char:EOLhyphen"/>demn him not for a Traytor, neither do I accuſe him. All that I ſay, is this, He that is ſo forward, active, and bold, to overturn one ſtate, will not be afraid to ſubvert another, upon the like ends and advantages: but a wiſe Prince will be watchful over ſuch men; he that loves the treaſon, doth not care ſo much for the traytor. Let the ſubject learn obedience in all ſubmiſſion, and the ſuperior will ſit ſecure, whilſt he doth ſerve the Lord with fear, and rejoyceth with trembling.<note place="margin">Pſal. 2.11.</note> So let all our Rulers do, O Lord.</p>
+            <p n="6">6. He makes void the glorious croſs &amp; bleſſed death of our Lord Jeſus Chriſt. As if that were not able to deſtroy all enmity, <hi>Eph.</hi> 2.15, 16. to pull down ſtrong holds, to caſt down imagi<g ref="char:EOLhyphen"/>nations, to ſubdue every thought, 2 <hi>Cor.</hi> 10.4, 5. to cure all
+<pb n="45" facs="tcp:37262:27"/>diſeaſes, to defend every aſſault, <hi>Pſal.</hi> 103.3. &amp; 107.20. <hi>Mat.</hi> 4.23. <hi>Joh.</hi> 5.4. <hi>Eph.</hi> 6.11, 16. Surely</p>
+            <q>
+               <l>The bloody croſs of my dear Lord<note place="margin">Mr G. H.</note>
+               </l>
+               <l>Is both my phyſick and my ſword.</l>
+            </q>
+            <p>Hath Chriſt all power in heaven onely? is it not given to him in earth alſo, <hi>Mat.</hi> 28.18. to forgive ſins even here on earth? <hi>Mat.</hi> 9.6. will he have us glorified with himſelf hereafter, <hi>Joh.</hi> 17. and will he not by himſelf ſanctifie us here throughout, wholly in ſpirit ſoul, and in body too? 1 <hi>Theſſ.</hi> 5.23, 24. that he may preſent us unto God (not imperfectly, and with half obe<g ref="char:EOLhyphen"/>dience, but) without ſpot or wrinkle, or any ſuch thing, <hi>Eph.</hi> 5.26, 27. none but belly-gods, and earthly-minded men are ene<g ref="char:EOLhyphen"/>mies to the croſs of Chriſt. Can we deſtroy our ſelves,<note place="margin">Phil. 3.18, 19,</note> and cannot he ſave us? <hi>Hoſ.</hi> 13.9. are we ſtronger then he? can ſin pollute, and cannot he purge and purifie? <hi>Zach.</hi> 13.1. can the divel lay ſnares and take us, and cannot God finde and break them? <hi>Pſal.</hi> 124.7. 2 <hi>Tim.</hi> 2.25, 26. 1 <hi>Joh.</hi> 3.8. He that ſhall diſpence with plenary obedience, and total mortification, doth (like the Pope in <hi>Venice</hi>) indulge the Stews and whore<g ref="char:EOLhyphen"/>houſes of mens unclean and filthy hearts: like Spies of Canaan, he brings up as evil report on the promiſes, power, and attri<g ref="char:EOLhyphen"/>butes of God, when he tells men that in ſtriving after perfect obedience, they do but <hi>Siſyphi ſaxum volvere,</hi> labor in the fire, and ſpend their ſtrength for nought; they ſet upon an unfeaſ<g ref="char:EOLhyphen"/>able and unarcheivable deſigne: they will be like thoſe ſilly wo<g ref="char:EOLhyphen"/>men (2 <hi>Tim.</hi> 3.7.) ever learning, but never attaining. Hath this doctrine of iniquity any fellowſhip with righteouſneſs? <hi>Pſal.</hi> 94.20. wo to the fooliſh prophets that have ſeen nothing, <hi>Ezek.</hi> 13.3. that have nothing but the inſtruments of a fooliſh and Idol-ſhepherd, the deciſions, conſultations, determinations, concluſions, and reſults of Synods, Convocations, Councels,<note place="margin">Zach. 11.15, 17.</note> Aſſembly of Divines (ſo called) to make up a confeſſion of their faith, and model of doctrine, for them to deceive others withal.</p>
+            <p>The Lord, by the prophet <hi>Jeremy,</hi> complaines of and reproves ſuch as did pilfer, begg, borrow and ſteal his word from their neighbor: theſe he diſowns as none of his prophets,<note place="margin">Jer. 23.30, 31, 32.</note> and ſets himſelf againſt them, curſing their Miniſtry with barrenneſs and unprofitableneſs to the people. No marvel if men be generally
+<pb n="46" facs="tcp:37262:28"/>ſuch ſtarvlings in Religion and godlineſs, when their Paſtors feed them with chaffe inſtead of wheat, and drive them to broken ciſterns inſtead of the fountain of living waters; ſhall Gods field be left for a rock, and the running waters be forſaken for the ſtrange cold waters?<note place="margin">Jer. 18.14.</note> I ſay not that it is unlawful to make uſe of and apply the grave and wiſe ſayings of good and holy men; but to tranſgreſs, and make the commandments of God of none effect by teaching for doctrines the traditions of men, is too much like a Scribe and Phariſee, <hi>Mat.</hi> 15<g ref="char:punc">▪</g> 3 6, 9. <hi>Paul</hi> cited <hi>Moſes</hi> and the Prophets, and heathen Authors too (<hi>Act.</hi> 17. <hi>Tit.</hi> 1.) yet would not have our faith ſtand in the wiſdom of men<g ref="char:punc">▪</g> 1 <hi>Cor.</hi> 2.5. then we truſt too much to man, when we preach or believe that which man commendeth to us as an article of faith or practice &amp; cannot find it commended of God, and to which the Scriptures give no teſti<g ref="char:EOLhyphen"/>mony. The wiſe Scribe, and a good man, bringeth forth good things out of a good treaſure<g ref="char:punc">▪</g> 
+               <hi>Mat.</hi> 12.35. &amp; 13.52. the non-perfectionableneſs of the Saints and their imperfect obedience, proceedeth from the evil treaſure of evil mens hearts, and are not to be found in the good treaſure of the Scripture, or a good mans heart.</p>
+            <p>I have one caution to caſt before Mr. <hi>Goffe</hi> and all other yong and inconſiderate preachers, <hi>viz.</hi> Whoſoever ſhall break one of the leaſt commands, and ſhall teach men ſo to do, he ſhall be called leaſt in the kingdom of heaven, <hi>Mat.</hi> 5.19. 'tis our Lord and Maſters Law; look to it. God hath marryed faith and love: what he hath joyned together, let no man put a ſunder, <hi>Gal.</hi> 5.6. faith is the father, love is the mother, obedience the off-ſpring: both parents are alike impatient of iſſue, like <hi>Abraham</hi> and <hi>Ra<g ref="char:EOLhyphen"/>chel,</hi> Gen. 15.2. &amp; 30.1. That our faith may be perfect in this life (or never) none doubteth; and that our love ſhould be with all the heart, with all the ſoul, and with all the ſtrength to God, and without diſſimulation, fervently, without mixture, with a pure heart one to another, is as certain. If <hi>Abraham</hi> be our father, and <hi>Sarah</hi> our mother;<note place="margin">Iſa. 51.2.</note> if our faith and hope be in God, 1 <hi>Pet.</hi> 1.21. then we ſhall purifie our ſelves according to the pattern in the mount, 1 <hi>Joh.</hi> 3.3, 4, 5, 6<g ref="char:punc">▪</g> 7, &amp;c. Our faith, like <hi>Adam,</hi> is firſt formed, out of which our love is taken; our love, like <hi>Eve,</hi> is that by which faith worketh, and becomes fruitful, <hi>Gal.</hi> 5.6. 1 <hi>Joh.</hi> 5.2,
+<pb n="47" facs="tcp:37262:28"/>3. this man is not without this woman, nor this woman with<g ref="char:EOLhyphen"/>out this man in the Lord; but both joyned in one ſpirit, bring forth much holineſs and obedience of life, to the perfecting of them<g ref="char:EOLhyphen"/>ſelves in the ſight of God. Children in the Hebrew tongue are called <hi>[banim]</hi> which in the root ſignifieth to edifie or build up.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Happy is the man that hath his quiver full of them, <hi>Pſal.</hi> 127.5.</note> Children are the ornament, beauty, and complement of a family, <hi>Pſal.</hi> 128. in them a man is built up, and his name continued, <hi>Pſal.</hi> 72.17. by works is our faith made perfect, <hi>Jam.</hi> 2.22. pure obedience in love, and perfect holineſs in fear, are inſeparable ac<g ref="char:EOLhyphen"/>cidents, I may ſay, eſſential properties of the adoption: where the promiſe of the father is really replyed upon, the practice of the Son is undoubtedly performed: for God to be our Father, &amp; for us to cleanſe and perfect our ſelves in holineſs, doth not much differ<g ref="char:punc">▪</g> one is not far aſunder from the other, ſee 2 <hi>Cor.</hi> 6.18. &amp; 7.1. where we finde ſmall ſtore of holineſs, we may conclude there is but lit<g ref="char:EOLhyphen"/>tle faith and love; but when we ſee holineſs in all manner of con<g ref="char:EOLhyphen"/>verſation, we may point out the obedient children,<note place="margin">1 Pet. 1.14, 15, 16, 17.</note> who faſhion not themſelves to their former luſts but to him that calleth them. Tis too preſumptuous for any to excuſe or mince a duty which God injoyneth to the full; and too diſhonorable to God, to di<g ref="char:EOLhyphen"/>ſtruſt what he hath promiſed. If the faith of God be within us, the obedience of Chriſt will not be without us. He that hath no Chriſt but that without him, needs no devil but that within him; If Chriſt be in heaven, and Satan in the heart, no marvel if men live as if there were nor heaven or hell, nor God or devil, or reſurrection from the dead. Miſerable days! when it ſhall paſs for Orthodox doctrine, to diſpenſe with perfect obedience in us, and rely on a Chriſt without us. Our fathers would have bluſht at ſuch looſe notions, and we their children may bewail the Apoſtacie we are faln into, in the Poets complaint,</p>
+            <q>
+               <l>Damnoſa quid non imminuit dies?</l>
+               <l>Aetas parentum pejor avis,</l>
+               <l>Tulit nos nequiores, mox daturos</l>
+               <l>Progeniem vitioſiorem.</l>
+            </q>
+            <q>
+               <l>Unhappy times! when <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ranſires ſins</l>
+               <l>In parents are brought forth by twins,</l>
+               <l>Whoſe children their bad lives exceed,</l>
+               <l>And leave behind a far worſe breed.</l>
+            </q>
+            <p>
+               <pb n="48" facs="tcp:37262:29"/>Men forſake the good old way of obedience and holineſs, wherein the faith of our fathers walked, and turn aſide to the fruitleſs fancies of new notions, forming to themſelves a faith and works in ſpeculation and diſcourſe onely, denying the power of godlineſs;<note place="margin">Hor.</note> filthy dreamers, <hi>immundo ſomnia viſu nocturnam maculant veſtem,</hi> who corrupt themſelves in the dark dreams of their night-viſions,<note place="margin">Jud. 10.</note> through the ignorance and brutiſh know<g ref="char:EOLhyphen"/>ledge of their natural reaſon and fleſhly wiſdom, whereby they glorifie not God as God,<note place="margin">Rom. 1.21</note> but are vain in their imaginations of him, and their fooliſh hearts are darkned; curſed children, ſeed of the adulterer and whore, generation of vipers, that eat through the bowels of truth, chaſing the new birth (like <hi>Herod</hi>) out of their own land and nature, into a ſtrange country, denying the in-born power and holineſs of God;</p>
+            <q>
+               <l>Which take away the Law, or its beſt fruits,</l>
+               <l>As not performable by beſt recruits.</l>
+               <l>In vain 'twas writ, man made, and grace diſtill'd,</l>
+               <l>If by Chriſts help it cannot be fullfill'd.</l>
+               <l>Which ſay, The Saints may will, not further go:</l>
+               <l>Doth not God grant to will, and then to do?</l>
+               <l>Which in believers all good works deſtroy,</l>
+               <l>While it their fancy filleth with this toy,</l>
+               <l>Faith alone ſaveth: do but this believe,</l>
+               <l>Do not thy ſelf with further trouble grieve.</l>
+               <l>Which call the called to ſecurity;</l>
+               <l>Saying None ſuch (though they may ſtep awry)</l>
+               <l>Can finally or totally relapſe:</l>
+               <l>With ſuch ſoft pillows ſome men get long naps:</l>
+               <l>Which ſay What hurt doth ſin? Chriſt for't was kill'd;</l>
+               <l>What need obedience? he hath all fulfill'd.</l>
+               <l>Which Satans kingdom ſtronger make then Chriſt,</l>
+               <l>For not till death his kingdom is diſmiſt.</l>
+               <l>Thus death a paſſive, ſtronger is then life;</l>
+               <l>Then Chriſt himſelf, to end this ghoſtly ſtrife.</l>
+               <l>Go on with this thy Chriſt, drink, rant, and whore;</l>
+               <l>He is the purſ-bearer, and payes the ſcore:</l>
+               <l>He is thy Porter, all thy burdens bears;</l>
+               <l>But all without thee, nought within repairs, <hi>&amp;c.</hi>
+               </l>
+            </q>
+            <p>
+               <pb n="49" facs="tcp:37262:29"/>See theſe verſes and the reſt of them before the examination of the Aſſembly of Divines Faith, written by Maſter <hi>Parker:</hi> and read that un<g ref="char:EOLhyphen"/>anſwered (I had like to ſay unanſwerable) book.</p>
+            <p n="7">7. Laſtly, he that denyes full and compleat obedience in this life, ſmels too ranke of Popery, and may be ſuſpected to be of a Jeſuitical judge<g ref="char:EOLhyphen"/>ment (which Maſter <hi>Goffe</hi> would be unwilling to own, or be charged with) while he ſeems to inſinuate a Purgatory hereafter, to purifie us from thoſe ſins from which we have not been purged here. If we dy im<g ref="char:EOLhyphen"/>perfect, we cannot riſe perfect; as the tree falls, ſo it lyeth. Or can the common death of the elemental body take away the relicks of ſin, which were unmortified in the life? then we need not make ſuch haſt to repent &amp; amend in our life time, but put it off till death, and ſo ſave a labor, and do all our work at once; in the mean time, eat, drink and be merry: if death do away ſin, who will riſe guilty? what wicked man will not be clean, and good enough to enter into the holy City? no dogs, ſorcerers, lyer, <hi>&amp;c.</hi> ſhall be kept out. Soft pillows for the elbows. Who would part with ſuch bedds of Down?</p>
+            <p>Obedience was required of Chriſt, in the volume of the book it was written, <hi>Pſal.</hi> 40.7. it was learned and performed by him, <hi>Heb.</hi> 5.8. <hi>Joh.</hi> 5.30. Phil. 2.8. and recompenſed to him, <hi>verſ.</hi> 9. the height of his obedi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce was on the croſs; let us be his diſciples: and <hi>Luk.</hi> 9.23. let us take up his Baptiſm indeed and in truth, and be planted into his likeneſs, <hi>Rom.</hi> 6.3, 5, 8, &amp;c. read the chapter. If we be willing, and love not our lives unto the death, we ſhall eat the good of the land, and be free from the curſe of the earth, <hi>Iſa.</hi> 1.19. <hi>Rom.</hi> 6.7. Rev. 12.11. The Lord worketh (as ſome ſay, <hi>Lammagnanehu</hi>) for the humble or obedient.<note place="margin">Prov. 16.4</note> He that is blind, and cannot ſee the ſalvations of God, the croſs will cure his eye-ſight: vinegar and gall will make a good Collyrium, or medicine for the eyes: the myſtery of Chriſts ſharp and bitter paſſion, is the hi<g ref="char:EOLhyphen"/>ſtory of our ſweet and pleaſant poſſeſſion: buy this eye-ſalve (<hi>Rev.</hi> 3.18.) it will do as much good, as that of <hi>Tobit</hi> to his fathers eyes.<note place="margin">Tob. 11.11 Luk. 19.4.</note> 
+               <hi>Zacheus</hi> could not ſee Jeſus till he climed into the Sycomore-tree, that is, the tree of a fooliſh fig or fruit, ſignifying the croſs of Chriſt, which to the Jew, that hath too much falſe righteouſneſs, is a ſtumbling-block, and to the Gen<g ref="char:EOLhyphen"/>tile,<note place="margin">1 Cor. 1.23</note> that hath too much fleſhly wiſdom, is fooliſhneſs. The garment wherewith the Divinity of Chriſt is clothed and covered, is his humani<g ref="char:EOLhyphen"/>ty; the hem or loweſt part thereof, is his humiliation unto the death of the croſs: by this, the bloody iſſue of our diſeaſed and corrupt nature is ſtopt and cured, <hi>Mat.</hi> 9.20. &amp; 14.36. 1 <hi>Joh.</hi> 1.7. the blood of Chriſt clean<g ref="char:EOLhyphen"/>ſeth us from all ſin. There be too many that ſlight the inward croſs of Chriſt, as an Allegorical and Seraphical doctrine, looking upon it as fooliſhneſs, being not able to indure ſound doctrine, that which is ſpiri<g ref="char:EOLhyphen"/>tualized and brought home, and cloſe to the conſcience, becauſe it layes the ax to the root of the tree, and makes the yong man ſorrowful, <hi>Mat.</hi> 3.10. &amp; 19.22. but know you, that there is no clear fight of Chriſt, but from the croſs.</p>
+            <p>Bleſſed be the death and croſs of Chriſt, by which the world,<note place="margin">Gal. 6.14.</note> and all
+<pb n="50" facs="tcp:37262:30" rendition="simple:additions"/>that is of the world may be crucifyed unto us, and we unto it; and thanks be unto God who giveth us the victory through our Lord Jeſus Chriſt; therefore, honored Sir, be you ſtedfaſt, unmoveable, always abounding in the work of the Lord,<note place="margin">1 Cor. 15.57, 58.</note> foraſmuch as you know that your la<g ref="char:EOLhyphen"/>bor is not in vain in the Lord.</p>
+            <closer>
+               <signed>Farwell, Yours in and for the Lord, HEN. PINNELL.</signed>
+               <dateline>
+                  <hi>Brinkworth</hi> 
+                  <date>July 18. 1654.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Could gladly make a retractation of what I have written; not that I am conſcious of overlaſhing with my pen, or overcharging any perſon: but becauſe the occaſion hath put me into an habit too Martial, and made me appear more Polemical then I deſire.<note place="margin">Jer. 15.10.</note> Wo is me that my mother hath born me a man of ſtrife and of contention. I was content to lie, like the flint, with my fire within my ſelf: but the ſteely tongues of men tipt with unrighteous cen<g ref="char:EOLhyphen"/>ſures and hard ſpeeches againſt me, have knock't and forc'd the fire abroad. If any ſparke catch and kindle to a flame, to enlighten ſome, and burn others; let thoſe bleſs God, and theſe thank themſelves. My purpoſe hath been, for many moneths and ſome yeers paſt, to have undertaken a task of another na<g ref="char:EOLhyphen"/>ture, and as much uſeful; but my unſetled condition hath let in ſo many inter<g ref="char:EOLhyphen"/>ruptions and avocations upon me, that I am diſcouraged to begin it. I pity wy generation, and would fain be ſerviceable to it. I have now lived ſo many yeers, as to learn to meaſure my life by dayes: that little (if there be yet any) of my time to come, bids me not be idle: and that little leaſure I have in my ſhort and maintain time, tells me I cannot do much. The people in four places (though I am neither Parſon, Vicar nor Curate) have ſome expectati<g ref="char:EOLhyphen"/>on of me; but my bodily infirmities get ſo much ground of me, that I think ſometimes I ſhall have enough to do to look to my ſelf. Whatſoever clamors hereafter ariſe, I mean not to quell with my pen, but practice: I bleſs God I have a conſcience and converſation inreadineſs to anſwer all gain-ſayers. I reſolve (by Gods help) to clime and creep further into the inward, hidden and ſecret world; the glimpſe I have of it, ſets me all on fire. Let me not go alone, afford me your company, and perſwade as many as you can to go along with us.</p>
+            <epigraph>
+               <q>
+                  <hi>Fauſtum iter &amp; foelix det bonus ille Deus.</hi>
+               </q>
+               <q>The God of Truth guide us, and then <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſhall no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> err: even ſo Amen.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37262:30"/>
+         </div>
+      </body>
+   </text>
+</TEI>
